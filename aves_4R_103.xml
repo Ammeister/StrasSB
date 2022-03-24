@@ -22,6 +22,7 @@
             ᷣ : Diacritique lettre minuscule latine r rotunda U+1DE3
             ß : Lettre minuscule latine S dur (allemand) eszett, s dur allemand U+00DF
             ꝭ : Lettre minuscule latine is U+A76D
+            ꝷ : Lettre minuscule latine tum U+A777
          </publicationStmt>
          <sourceDesc>
             <p>Information about the source</p>
@@ -350,7 +351,7 @@
             </p>
             <p>
                <lb n="23"/>Diser Rat ist geschriben uß eim briefe der vohet
-               <lb n="24"/>an, Conradus Virnkorn <choice><abbr>Mgr̃</abbr><expan>Magister</expan></choice> <choice><abbr>burgenß</abbr><expan>burgensium</expan></choice> et <choice><abbr>ꝰsules</abbr><expan>consules</expan></choice>
+               <lb n="24"/>an, Conradus Virnkorn <choice><abbr>Mg̃r</abbr><expan>Magister</expan></choice> <choice><abbr>burgenß</abbr><expan>burgensium</expan></choice> et <choice><abbr>ꝰsules</abbr><expan>consules</expan></choice>
                <lb n="25"/><choice><abbr>argeñ</abbr><expan>argentinensis</expan></choice> und stet sin <choice><abbr>datũ</abbr><expan>datum</expan></choice> Acta sunt hec publice
                <lb n="26"/>anno <choice><abbr>incarnatioñ</abbr><expan>incarnationem</expan></choice> <choice><abbr>dm̃</abbr><expan>domini</expan></choice> M° CC° XXXVIIII°
             </p>
@@ -618,7 +619,7 @@
                <lb n="16"/>Diser Rat ist <choice><abbr>geschrꝭ</abbr><expan>geschriben</expan></choice> uß eim briefe der
                <lb n="17"/>vohet an Alberchtus Begarius albus <choice><abbr>Mag̃r</abbr><expan>Magister</expan></choice>
                <lb n="18"/><choice><abbr>Burgeñ</abbr><expan>Burgensium</expan></choice> et Consules <choice><abbr>Argeñ</abbr><expan>Argentinensis</expan></choice> Sub scripti <choice><abbr>Notũ</abbr><expan>Notum</expan></choice>
-               <lb n="19"/><choice><abbr>facimꝰ</abbr><expan>facimus</expan></choice> <choice><abbr>õnibz</abbr><expan>omnibus</expan> <choice><abbr>pñs</abbr><expan>presens</expan></choice> <choice><abbr>scriptꝭ</abbr><expan>scriptum</expan></choice> <choice><abbr>Inspecturꝭ</abbr><expan>Inspecturum</expan></choice> etc Und
+               <lb n="19"/><choice><abbr>facimꝰ</abbr><expan>facimus</expan></choice> <choice><abbr>õnibz</abbr><expan>omnibus</expan> <choice><abbr>pñs</abbr><expan>presens</expan></choice> <choice><abbr>scripꝷ</abbr><expan>scriptum</expan></choice> <choice><abbr>Inspecturꝭ</abbr><expan>Inspecturum</expan></choice> etc Und
                <lb n="20"/>stot sin <choice><abbr>datũ</abbr><expan>datum</expan></choice> also Acta <choice><abbr>sũt</abbr><expan>sunt</expan></choice> hec Anno <choice><abbr>dm̃</abbr><expan>domini</expan></choice>
                <lb n="21"/>M° CC° LII In <choice><abbr>tp̃e</abbr><expan>tempore</expan></choice> <choice><abbr>nr̃i</abbr><expan>nostri</expan></choice> Consilii videlitz
                <lb n="22"/>Hetzelonis de <choice><abbr>Eckeversheĩ</abbr><expan>Eckversheim</expan></choice> etc <choice><abbr>ut̃</abbr><expan>utque</expan></choice> und ist
@@ -682,358 +683,461 @@
                <lb n="1"/>Anno <choice><abbr>dm̃</abbr><expan>domini</expan></choice> M° CC° LVI°
                <lb n="2"/>1256
             </p>
---
-Anno domini 1257
-Hug Ripelin der meister
-her Aͤbreht der wiß beger
-Erbe des Rihters sün
-Reimbolt virn korn genant Lieben zeller
-Friderich under den kouffluten
-Rüdolff von vegersheim
-Reimböldelin
-Erbe Clausen sün
-Reimbolt Stubenweg
-Conrat etwan Rihter
-Hetzel von truhtersheim
-Friderich Spender
-Johans, Rudolffs sün des zollers die Rete
-Burckart und Claus Zorn her Hug Ripels
-süne und ander etwie vil
-
-Diser Rat ist geschriben uß eim briefe der
-vohet an Hugo Ripelinus magister civis et
-consules Argentinenses Notum Facimus omnibus
-presens scriptum inspecturum etc. Und stät sin
-datum also Acta sunt hec Anno domini M
-CC LVII mense Januario und mit der
-Stat grossem Insigel mit Rotem wahs
-
-Anno domini 1258
-
-Burckart Spender der alt
-Gex Stieffsün
-Heinrich Kälbelin
-Reimbolt clausen sün
-Hans von Bietenheim
-Burchart Hug Riplins sun
-Ruͦlin Ripplin
-Hans Swartz
-Ulrich Schot
-Reimbolt Virnkorn der Jung
-Hans, Erben suͦn
-Hartmüt von Schiltingheim
-Heinrich von Ache
-Brune
-Conrat kuchen Meister
-Rulin Lentzlin
-Dietherich Wilendt Richter
-Erbe von Kagenecke
-Heinrich dachsen
-Erbe Clausen sün
-Conrat Broͤger
-Hans Wiperts sün
-Niclaus Reimböldelins bruder
-Peter Zollers sun
-Friderich, Friderichs sun
-Claus Kageneck und ander merer
-Erbe des Richters sun
-Reimbolt liebenzeller
-Rüdolff von vegerßheim
-Reimboldelin
-Hug Rippelin
-Reimbolt Stubhinwegk
-Burckart genant Spender
-Claus genant Zorn
-
-Diser Rat ist geschriben uß eim briefe vohet an Heinricus
-miles de Wolgangesheym magister burgensium consules et universitas
-civium argentinensis etc. Und stot sin datum Anno domini M CC
-L VIII Mense Julii Und ist mit eim Rote wahssen
-[...]
-
-Anno domini 1258
-
-Burckart Spender der alt
-Reimbolt Clausen sün
-Heinrich von wolffgangesheim
-Johannes von Bietenheim
-Burckart, Hug Ripelins sün
-Hans der Swartz
-Rülin Ripelin
-Ülrich Schotte
-Reimbolt virnkorn der Junge
-Hans, her Erben sün
-Sifrit von vegersheim
-Conrat der kuchen meister
-Johans von Schöneck
-Erbe von Tegervelt
-Heinrich von Ache
-Brune etwan Schultheis
-Hartmüt von Schiltingheim
-Claus von Kageneck
-Claus Reimboildelins bruder die Rete
-Hug Ripelin
-Erbe, Clausen sün
-Reimböldelin
-Reimbolt Stuben weg
-Conrat etwann Rihter
-Burckart Spender
-Friderich Spender
-Claus Zorn
-Behtolt Ruseck
-Hetzel von Eckversheim
-und von den amptluten walther der kuffermeister
-Heinrich der Smyde meister
-Johans des Bischofes sün
-Diebolt und ander etwie vil
-
-Diser Rat ist geschriben uß eim briefe vohet 
-an Gösselinus magister civium et consules
-argentinenses etc. Und stet sin datum Anno domini M
-CC LVIII Mense februarum etc.
---
-Anno domini 1259
-
-her Albreht Rülenderlin
-her Johans Schilt
-her Götze von Grostein
-her Vurantz
-her Reimbolt von Friburg
-her Peter von Schöneck
-her Johans Pfanfelin
-her Reimbolt Reimböldelin
-her Gösselin Schaup
-her Gösselin von Kageneck
-her Reimbolt der liebenzeller
-her Johans Hetzel
-her Johans Stuben weg
-her wilhelm nope
-her Hug Zorn
-her Burckart Schultheis
-Rüdolff zoller
-Rülin Lentzelin
-Conrat Broger
-Jacob Kempff
-
-Anno domini 1260
-
-Heinrich von wolffgangesheim
-Erbe, Clausen sün
-Reimböldelin
-Hans der Swartz
-Peter Nope
-Heinrich Marsilius
-Rülin Ripelin
-Reimbolt virnkorn der Junge
-Heinrich von Ache
-Hetzel von druhtersheim
-Conrat der kuchen meister
-Wernher Sturm die Rete und ander etwie vil
-
-Diser Rat ist geschriben uß eim briefe vohet
-an Nos Johannes filius domini Erbonis Magister
-Civium et consules Argentinenses etc. und stat sin
-datum also Anno domini M CC LX Mense Augusti
-etc.
---
-Anno domini 1261
-
-Anno domini 1262
---
-Anno domini 1263
-
-Anno domini 1264
---
-Anno domini 1265
-
-Anno domini 1266
---
-Anno domini 1267
-
-Anno domini 1268
---
-Anno domini 1269
-
-Burckardus Junior Spender, Magister Consules,
-et universitas Civium Argentinensis, Notum facimus
-universis, quod nos Accedente voluntate et consensu
-nostro unanimi redditus [unius] libre denariorum Argen[...]
-qui huius que Civitati nostre de quibusdam Insulis
-nomine census A Monachis sancti Arbogasti
-dabant et conferimus et donamus Ad altare beate
-virginis, quod dicitur fruge altar ; Volentes ut
-dominus Arnoldus et eius Inperpetuum successores
-qui idem Altare pro tempore habuerint predictam
-libram denariorum recipiant Annuatum. In [...]
-rei testimonium Sigillum Civitatis nostre presentibus
-est Appensum Actum et datem Anno domini M CC
-ex Nono in Crastino sancti Martini
-
-Anno domini 1270
---
-Anno domini 1271
-
-die vier meistere
-Claus Mursel
-Sifrit von Vegersheim
-Turant
-Hans von Kageneck
-
-Rittere
-her Johans von Kunigeshofen
-Gerhart Schoup
-Hans Heyer
-Lux
-
-Walther Ruseß
-Heinrich Durre
-Burckart Sick
-Hug Wyrich
-Otte hern friderichs sün
-Gebe Stubenweg
-Wilhelm von Tegervelt
-Hans von Utenheim
-Jacob von Barre
-die Rete zu Strasburg
-
-Anno domini 1272
-
-die meistere
-her Heinrich liebenzeller
-her Rülenderlin
-her Marx
-Johannes von Blümenowe
-
-her Gösselin
-her Johans uber brusch
-her Hartmüt von Schultingheim
-her Hugvon Vegersheim
-Johans von Sarburg
-Claus von Kageneck
-Heinrich Marsilii
-Ott Ripelin
-Claus von Vinckenwiler
-Hesse im wasser
-Rüdiger von hunßvelt
-Andres Wirich
-
-Dis Rat ist geschriben uß eim briefe, der vohet an
-Reymboldus liebencellarius magister Consules
-et universitas civium argentinensis Notum etc. und
-stat sin datum Anno domini M CC LXXII In crastino
-beati Adolffi
---
-Anno domini 1273
-
-Item her Reimbolt Liebenzeller
-Item her Hans Isensit [der bunsch]
-Item her Marx
-Item her Goselin zu Sant Thoman
-Item Niclaus von Kageneck
-Item Rudiger von hundsfelden
-
-Dises ist geschriben uß einem latinischen
-brieff faht an Hugo de Vegerßheim
-Magister consules et universitas Civium
-argentinensis etc. des datum Anno domini
-1278 feria Secunda ante feste
-Jehans baptise
-
-Anno domini 1274
---
-Anno domini 1275
-
-Anno domini 1276
-
-die vier meistere
-
-her hans Jensit der brusch
-her Cüne Süner
-her Reimbolt von Friburg
-her Hartman von Schiltingheim
-
-her Hug von vegersheim
-Hug Ripelin
-Erbe Stubenweg
-her lux
-Niclaus von kageneck
-Colin
-Johanns von Sarburg
-her marsilii
-Hesse im wasser
-Heinrich Lentzelin
-Niclaus des zorn Sün
-
-Diser Rat ist geschriben uß eim briefe der vohet
-an Hartmutus de Schiltingheim Magister et
-consules argentinenses Notum facimus unversis etc. und
-stöt sin datum Actum Anno domini M CC LXXsepto feria
-tertia ante festum Johannes baptiste presentibus utque
---
-Anno domini 1277
-
-die vier meistere
-
-her Niclaus Zorn
-her Burckart der Spender
-her Reimbolt der lieben zeller
-her Marcus
-
-her Johans von Bluͦmenowe
-her Gerhart Schaup
-her Erbe Stuben weg
-her Johans des Zorns brüder sün
-her Niclaus, her Reimböldelins brüder
-her Johans von Kageneck
-her Hartung an dem wasser
-her Wetzel Marsilius
-her Conrat der Brager
-her Heintz Lentzelin
-Reimbolt von Lingolvesheim
-Lentzelin vor dem Munster
-Rülin Ripelin
-Heintz von wolffgangesheim
-
-Diser Rat ist geschriben uß eim Rat des datum
-stat an zinstag noch Bonifacii Anno
-domini M CC LXXVII
-
-Am selben Jar sind ouch Im Rat gesessen
-lut eins brieffs mit der stat grossinsigel
-und Reimbolt Liebenzellers und Reimbolt
-Tuͦrants Insigel des Datum dusent CC
-und LXXVII am sant Margreden obent
-
-die vier meister
-Item her Johans Jensit brusch
-Item her Hug Ripelin
-Item her Niclaus von Kageneck
-Item her Lucas
-
-Item her gotzlin vor Sant Thoman
-Item her Hartmut von Schiltigkheim
-Item her Hug Cantzler
-Item her Petrus Ripelin
-Item her Reimbolt Stubenweg
-Item her Colin under den kouffluten
-Item her heß an dem Wasser
-Item Niclaus der Zorn suns
-Item Reimbolt, herrn Reimboldelins sun
-Item Ulrich Schwarber
-Item Ott Friderich
-Item Jacob von Barr
-Item Johannes Sturm
-Item Ebelin [Hohenloch]
-Item Johannes Sickelin
-Item Wilhelm von tegerfeld
-Item Niclaus herrn erben sun
-Item Paulus Wirich
-Item Hug ripelin
-Item Hetzels von truchterßheim
-Item Gotzle der schouber sun
-
-Anno domini 1278
---
+            <pb n="22"/>
+            <cb n="1"/>
+            <p>
+               <lb n="1"/>Anno <choice><abbr>dm̃</abbr><expan>domini</expan></choice> M° CC° LVII°
+               <lb n="2"/>1257
+               <lb/>
+               <lb n="3"/>Hug Ripelin der meister
+               <lb n="4"/>Her <choice><abbr>Aͤbreht</abbr><expan>Albreht</expan></choice> der wiß beger
+               <lb n="5"/>Erbe des Rihters sün
+               <lb n="6"/>Reimbolt virn korn genant Lieben zeller
+               <lb n="7"/>Friderich under den koufflúten
+               <lb n="8"/>Rüdolff von vegersheim
+               <lb n="9"/>Reimböldelin
+               <lb n="10"/>Erbe Clausen sün
+               <lb n="11"/>Reimbolt Stúbenweg
+               <lb n="12"/>Conrat etwan Rihter
+               <lb n="13"/>Hetzel von truhtersheim
+               <lb n="14"/>Friderich Spender
+               <lb n="15"/>Johans Rudolffs sün des zollers die Rete
+               <lb n="16"/>Burckart und Claus Zorn Her Hug Ripels
+               <lb n="17"/>süne und ander etwie vil
+            </p>
+            <p>
+               <lb n="18"/>Diser Rat ist geschriben uß eim briefe der
+               <lb n="19"/>vohet an Hugo <choice><abbr>Ripelinꝰ</abbr><expan>Ripelinus</expan></choice> <choice><abbr>mag̃r</abbr><expan>magister</expan></choice> <choice><abbr>civiũ</abbr><expan>civium</expan></choice> et
+               <lb n="20"/>consules <choice><abbr>Argeñ</abbr><expan>Argentinensis</expan></choice> Notum <choice><abbr>Facimꝰ</abbr><expan>Facimus</expan></choice> <choice><abbr>omĩbꝰ</abbr><expan>omnibus</expan></choice>
+               <lb n="21"/>presens <choice><abbr>scriptũ</abbr><expan>scriptum</expan></choice> <choice><abbr>inspecturꝭ</abbr><expan>inspecturum</expan></choice> etc und stät sin
+               <lb n="22"/><choice><abbr>dat̃</abbr><expan>datum</expan></choice> also Acta sunt hec Anno <choice><abbr>dm̃</abbr><expan>domini</expan></choice> M°
+               <lb n="23"/>CC° LVII° mense Januario und mit der
+               <lb n="24"/>Stat grossem Insigel mit Rotem wahs
+            </p>
+            <p>
+               <lb n="1"/>Anno <choice><abbr>dm̃</abbr><expan>domini</expan></choice> M° CC° LVIII
+               <lb n="2"/>1258
+               <lb/>
+               <lb n="3"/>Burckart Spender der alt
+               <lb n="4"/>Gex Stieff sün
+               <lb n="5"/>Heinrich Kälbelin
+               <lb n="6"/>Reimbolt clausen sün
+               <lb n="7"/>Hans von Bietenheim
+               <lb n="8"/>Burchart Hug Riplins sün
+               <lb n="9"/>Ruͦlin Ripplin
+               <lb n="10"/>Hans Swartz
+               <lb n="11"/>Ulrich Schot
+               <lb n="12"/>Reimbolt Virnkorn der Jung
+               <lb n="13"/>Hans, Erben suͦn
+               <lb n="14"/>Hartmüt von Schiltingheim
+               <lb n="15"/>Heinrich von Ache
+               <lb n="16"/>Brune
+               <lb n="17"/>Conrat kuchen Meister
+               <lb n="18"/>Rülin Lentzlin
+               <lb n="19"/>Dietherich Wilendt Richter
+               <lb n="20"/>Erbe von Kagenecke
+               <lb n="21"/>Heinrich dachsen
+               <lb n="22"/>Erbe Clausen sün
+               <lb n="23"/>Conrat Broͤger
+               <lb n="24"/>Hans Wiperts sün
+               <lb n="25"/>Niclaus Reimböldelins brüder
+               <lb n="26"/>Peter Zollers sün
+               <lb n="27"/>Friderich, Friderichs sun
+               <lb n="28"/>Claus Kageneck und ander <choice><abbr>merᷣ</abbr><expan>merer</expan></choice>
+               <lb n="29"/>Erbe des Richters sün
+               <lb n="30"/>Reimbolt liebenzeller
+            </p>
+            </p>
+            <cb n="2"/>
+            <p>
+               <lb n="1"/>1258
+               <lb n="2"/>Anno <choice><abbr>dm̃</abbr><expan>domini</expan></choice> M° CC° LVIII°
+               <lb/>
+               <lb n="3"/>Burckart Spender der alt
+               <lb n="4"/>Reimbolt Clausen sün
+               <lb n="5"/>Heinrich von wolffgangesheim
+               <lb n="6"/>Johans von Bietenheim
+               <lb n="7"/>Burckart, Hug Ripelins sün
+               <lb n="8"/>Hans der Swartz
+               <lb n="9"/>Rülin Ripelin
+               <lb n="10"/>Ülrich Schotte
+               <lb n="11"/>Reimbolt virn korn der Junge
+               <lb n="12"/>Hans, her Erben sün
+               <lb n="13"/>Sifrit von vegersheim
+               <lb n="14"/>Conrat der kúchen meister
+               <lb n="15"/>Johans von Schöneck
+               <lb n="16"/>Erbe von Tegervelt
+               <lb n="17"/>Heinrich von Ache
+               <lb n="18"/>Brune etwan Schultheis
+               <lb n="19"/>Hartmüt von Schiltingheim
+               <lb n="20"/>Claus von Kageneck
+               <lb n="21"/>Claus Reimboildelins brüder die Rete
+               <lb n="22"/>Hug Ripelin
+               <lb n="23"/>Erbe, Clausen sün
+               <lb n="24"/>Reimböldelin
+               <lb n="25"/>Reimbolt Stúben weg
+               <lb n="26"/>Conrat <choice><abbr>etwañ</abbr><expan>etwann</expan></choice> Rihter
+               <lb n="27"/>Burckart
+               <lb/>Spender
+               <lb n="28"/>Friderich
+               <lb n="29"/>Claus Zorn
+               <lb n="30"/>Behtolt Rúseck
+               <lb n="31"/>Hetzel von <choice><abbr>Eckvᷣsheim</abbr><expan>Eckversheim</expan></choice>
+               <lb n="32"/>und von den amptlúten <choice><abbr>walthᷣ</abbr><expan>walther</expan></choice> der kúffer <choice><abbr>meistᷣ</abbr><expan>meister</expan></choice>
+               <lb n="33"/>Heinrich der Smyde meister
+               <lb n="34"/>Johans des Bischofes sún
+               <lb n="35"/>Diebolt und ander etwie vil
+            </p>
+            <p>
+               <lb n="36"/>Diser Rat ist geschribẽn uß eim briefe vohet 
+               <lb n="37"/>an Gösselinus <choice><abbr>mag̃r</abbr><expan>magister</expan></choice> <choice><abbr>Civiũ</abbr><expan>Civium</expan></choice> et Consules
+               <lb n="38"/><choice><abbr>Argeñ</abbr><expan>Argentinensis</expan></choice> etc Und stet sin <choice><abbr>datũ</abbr><expan>datum</expan></choice> Anno <choice><abbr>dm̃</abbr><expan>domini</expan></choice> M°
+               <lb n="39"/>CC° LVIII° Mense <choice><abbr>februarꝭ</abbr><expan>februarum</expan></choice> etc
+            </p>
+            <p>
+               <lb n="40"/>Rüdolff von Vegerßheim
+               <lb n="41"/>Reimboldelin
+               <lb n="42"/>Hug Rippelin
+               <lb n="43"/>Reimbolt Stibhinwegk
+               <lb n="44"/>Burckart genant spender
+               <lb n="45"/>Claus genant Zorn
+            </p>
+            <p>
+               <lb n="46"/>Diser Rat ist geschriben uß eim briefe vohet an <choice><abbr>Heinricꝰ</abbr><expan>Heinricus</expan></choice>
+               <lb n="47"/>miles de <choice><abbr>Wolffgangesheỹ</abbr><expan>Wolffgangesheym</expan></choice> <choice><abbr>mg̃r</abbr><expan>magister</expan></choice> <choice><abbr>burgensiũ</abbr><expan>burgensium</expan> <choice><abbr>ꝰsules</abbr><expan>consules</expan></choice> et <choice><abbr>univᷣ</abbr><expan>universitas</expan></choice>
+               <lb n="48"/><choice><abbr>civiũ</abbr><expan>civium</expan></choice> <choice><abbr>Argeñ</abbr><expan>Argentinensis</expan></choice> etc Und stot sin <choice><abbr>daꝷ</abbr><expan>datum</expan></choice> Anno <choice><abbr>dm̃</abbr><expan>domini</expan></choice> M° CC°
+               <lb n="49"/>L° VIII° Mense Julii Und ist mit eim Rote wahssen
+               <lb n="50"/>anhangenden Insigel
+            </p>
+            <pb n="23"/>
+            <cb n="1"/>
+            <p>
+               <lb n="1"/>1259
+               <lb n="2"/>Anno <choice><abbr>dm̃</abbr><expan>domini</expan></choice> M° CC° LVIIII°
+               <lb/>
+               <lb n="3"/>Her Albreht Rülenderlin
+               <lb n="4"/>Her Johans Schilt
+               <lb n="5"/>Her Goͤtze von Grostein
+               <lb n="6"/>Her Vürantz
+               <lb n="7"/>Her Reimbolt von Friburg
+               <lb n="8"/>Her Peter von Schöneck
+               <lb n="9"/>Her Johans Pfanfelin
+               <lb n="10"/>Her Reimbolt Reimböldelin
+               <lb n="11"/>Her Gösselin Schaup
+               <lb n="12"/>Her Gosselin von Kageneck
+               <lb n="13"/>Rer Reimbolt der Lieben zeller
+               <lb n="14"/>Her Johans Hetzel
+               <lb n="15"/>Her Johans von wolffgangesheim
+               <lb n="16"/>Her Reimbolt der Junge
+               <lb n="17"/>Her Johans Stuben weg
+               <lb n="18"/>Her wilhelm Nope
+               <lb n="19"/>Her Hug Zorn
+               <lb n="20"/>her Burckart Schultheis
+               <lb n="21"/>Rüdolff Zoller
+               <lb n="22"/>Ruͤlin Lentzelin
+               <lb n="23"/>Conrat Broger
+               <lb n="24"/>Jacob Kempff
+            </p>
+            <cb n="2"/>
+            <p>
+               <lb n="1"/>1260
+               <lb n="2"/>Anno <choice><abbr>dm̃</abbr><expan>domini</expan></choice> M° CC° LX°
+               <lb/>
+               <lb n="3"/>Heinrich von wolffgangesheim
+               <lb n="4"/>Erbe, Clausen sún
+               <lb n="5"/>Reimböldelin
+               <lb n="6"/>Hans der Swartz
+               <lb n="7"/>Peter Nope
+               <lb n="8"/>Heinrich Marsilius
+               <lb n="9"/>Rülin Ripelin
+               <lb n="10"/>Reimbolt virn korn der Junge
+               <lb n="11"/>Heinrich von Ache
+               <lb n="12"/>Hetzel von Druhtersheim
+               <lb n="13"/>Conrat der Kuchen meister
+               <lb n="14"/>Wernher Sturm die Rete und ander etwie vil
+            </p>
+            <p>
+               <lb n="15"/>Diser Rat ist geschriben uß eim briefe vohet
+               <lb n="16"/>an Nos Johannes filius <choice><abbr>dm̃</abbr><expan>domini</expan></choice> Erboni s <choice><abbr>Mag̃r</abbr><expan>Magister</expan></choice>
+               <lb n="17"/><choice><abbr>Civiũ</abbr><expan>Civium</expan></choice> et <choice><abbr>ꝰsules</abbr><expan>consules</expan></choice> <choice><abbr>Argeñ</abbr><expan>Argentinensis</expan></choice> etc und stat sin
+               <lb n="18"/><choice><abbr>datũ</abbr><expan>datum</expan></choice> also Anno <choice><abbr>dm̃</abbr><expan>domini</expan></choice> M° CC° LX° Mense <choice><abbr>Aug̃</abbr><expan>Augusti</expan></choice>
+               <lb n="19"/>etc
+            </p>
+            <pb n="24"/>
+            <cb n="1"/>
+            <p>
+               <lb n="1"/>Anno <choice><abbr>dm̃</abbr><expan>domini</expan></choice> M° CC° LXI°
+               <lb n="2"/>1261
+            </p>
+            <cb n="2"/>
+            <p>
+               <lb n="1"/>Anno <choice><abbr>dm̃</abbr><expan>domini</expan></choice> M° CC° LXII°
+               <lb n="2"/>1262
+            </p>
+            <pb n="25"/>
+            <cb n="1"/>
+            <p>
+               <lb n="1"/>Anno <choice><abbr>dm̃</abbr><expan>domini</expan></choice> M° CC° LXIII°
+               <lb n="2"/>1263
+            </p>
+            <cb n="2"/>
+            <p>
+               <lb n="1"/>Anno <choice><abbr>dm̃</abbr><expan>domini</expan></choice> M° CC° LXIIII°
+               <lb n="2"/>1264
+            </p>
+            <pb n="26"/>
+            <cb n="1"/>
+            <p>
+               <lb n="1"/>Anno <choice><abbr>dm̃</abbr><expan>domini</expan></choice> M° CC° LXV°
+               <lb n="2"/>1265
+            </p>
+            <cb n="2"/>
+            <p>
+               <lb n="1"/>Anno <choice><abbr>dm̃</abbr><expan>domini</expan></choice> M° CC° LXVI°
+               <lb n="2"/>1266
+            </p>
+            <pb n="27"/>
+            <cb n="1"/>
+            <p>
+               <lb n="1"/>Anno <choice><abbr>dm̃</abbr><expan>domini</expan></choice> M° CC° LXVII°
+               <lb n="2"/>1267
+            </p>
+            <cb n="2"/>
+            <p>
+               <lb n="1"/>Anno <choice><abbr>dm̃</abbr><expan>domini</expan></choice> M° CC° LXVIII°
+               <lb n="2"/>1268
+            </p>
+            <pb n="28"/>
+            <cb n="1"/>
+            <p>
+               <lb n="1"/>Anno <choice><abbr>dm̃</abbr><expan>domini</expan></choice> M° CC° LXVIIII°
+               <lb n="2"/>1269
+               <lb/>
+               <lb n="3"/>Burckardus Junior Spender, Magister Consules,
+               <lb n="4"/>et universitas <choice><abbr>Civiũ</abbr><expan>Civium</expan></choice> <choice><abbr>Argentiñ</abbr><expan>Argentinensis</expan></choice>, Notum <choice><abbr>facimꝰ</abbr><expan>facimus</expan></choice>
+               <lb n="5"/>universis. quod nos Accedente voluntate et <choice><abbr>ꝰsensu</abbr><expan>consensu</expan></choice>
+               <lb n="6"/>nostro. unanimi <choice><abbr>redditꝰ</abbr><expan>redditus</expan></choice> <choice><abbr>uniꝰ</abbr><expan>unius</expan></choice> libre <choice><abbr>denarioꝝ</abbr><expan>denariorum</expan></choice> <choice><abbr>Argenꝭ</abbr><expan>Argentinensis</expan></choice>
+               <lb n="7"/>qui huius <choice><abbr>qꝫ</abbr><expan>que</expan></choice> Civitati nostre de quibusdam Insulis
+               <lb n="8"/><choice><abbr>nomĩe</abbr><expan>nomine</expan></choice> census A Monachis sancti Arbogasti
+               <lb n="9"/><choice><abbr>dabantᷣ</abbr><expan>dabanter</expan></choice> <choice><abbr>ꝰferimꝰ</abbr><expan>conferimus</expan></choice> et donamus Ad altare beate
+               <lb n="10"/>Virginis, quod dicitur frúge altar; Volentes ut
+               <lb n="11"/><choice><abbr>dñꝰ</abbr><expan>dominus</expan></choice> Arnoldus et eius <choice><abbr>Inperpetuũ</abbr><expan>Inperpetuum</expan></choice> successores
+               <lb n="12"/>qui idem Altare pro tempore habuerint <choice><abbr>predictã</abbr><expan>predictam</expan></choice>
+               <lb n="13"/>libram <choice><abbr>denarioꝝ</abbr><expan>denariorum</expan></choice> recipiant <choice><abbr>Anũatim</abbr><expan>Annuatim</expan></choice>. In <choice><abbr>omꝰ</abbr><expan>omnibus</expan></choice>
+               <lb n="14"/>rei <choice><abbr>testimoniũ</abbr><expan>testimonium</expan></choice> <choice><abbr>Sigillũ</abbr><expan>Sigillum</expan></choice> Civitatis nostre <choice><abbr>pñtibꝰ</abbr><expan>presentibus</expan></choice>
+               <lb n="15"/>est <choice><abbr>Appensũ</abbr><expan>Appensum</expan></choice> <choice><abbr>Actũ</abbr><expan>Actum</expan></choice> et <choice><abbr>daꝷ</abbr><expan>datum</expan></choice> Anno <choice><abbr>dm̃</abbr><expan>domini</expan></choice> M° II ͨ
+               <lb n="16"/>ex Nono in Crastino <choice><abbr>sctĩ</abbr><expan>sancti</expan></choice> Martini
+            </p>
+            <cb n="2"/>
+            <p>
+               <lb n="1"/>Anno <choice><abbr>dm̃</abbr><expan>domini</expan></choice> M° CC° LXX°
+               <lb n="2"/>1270
+            </p>
+            <pb n="29"/>
+            <cb n="1"/>
+            <p>
+               <lb n="1"/>Anno <choice><abbr>dm̃</abbr><expan>domini</expan></choice> M° CC° LXXI°
+               <lb n="2"/>1271
+               <lb/>
+               <lb/>die vier <choice><abbr>meisteᷣ</abbr><expan>meistere</expan></choice>
+               <lb n="3"/>Claus Múrsel
+               <lb n="4"/>Sifrit von Vegersheim
+               <lb n="5"/>Turant
+               <lb n="6"/>Hans von Kageneck
+               <lb/>
+               <lb/>Rittere
+               <lb n="7"/>her Johans von Kúnigeshofen
+               <lb n="8"/>Gerhart Schoup
+               <lb n="9"/>Hans Heyer
+               <lb n="10"/>Lux
+               <lb/>
+               <lb n="11"/>Walther Ruseß
+               <lb n="12"/>Heinrich Dúrre
+               <lb n="13"/>Burckart Sick
+               <lb n="14"/>Hug Wyrich
+               <lb n="15"/>Otte <choice><abbr>hᷣn</abbr><expan>hern</expan></choice> friderichs sün
+               <lb n="16"/>Erbe Stúbenweg
+               <lb n="17"/>Wilhelm von Tegervelt
+               <lb n="18"/>Hans von Utenheim
+               <lb n="19"/>Jacob von Barre
+               <lb/>die Rete zu Strasburg
+            </p>
+            <p>
+               <lb n="20"/>Diser Rät ist geschriben uß eym briefe vohet an
+               <lb n="21"/>Sifridus de Vegersheym <choice><abbr>Mg̃r</abbr><expan>Magister</expan></choice> Consules et <choice><abbr>univᷣsitas</abbr><expan>universitas</expan></choice>
+               <lb n="22"/>Civium <choice><abbr>Argeñt</abbr><expan>Argentinensis</expan></choice> Notum <choice><abbr>facimꝰ</abbr><expan>facimus</expan></choice> <choice><abbr>univᷣis</abbr><expan>universis</expan></choice> etc und
+               <lb n="23"/>stät sin <choice><abbr>datũ</abbr><expan>datum</expan></choice> Anno <choice><abbr>dm̃</abbr><expan>domini</expan></choice> M° CC° LXX° In crastino
+               <lb n="24"/><choice><abbr>btẽ</abbr><expan>beate</expan></choice> margarethe
+            </p>
+            <cb n="2"/>
+            <p>
+               <lb n="1"/>Anno <choice><abbr>dm̃</abbr><expan>domini</expan></choice> M° CC° LXXII°
+               <lb n="2"/>1272
+               <lb/>
+               <lb/>die meistere
+               <lb n="3"/>her Heinrich liebenzeller
+               <lb n="4"/>her Rülenderlin
+               <lb n="5"/>her Marx
+               <lb n="6"/>Johannes von Blümenowe
+               <lb/>
+               <lb n="7"/>her Gösselin
+               <lb n="8"/>her Johans úber brúsch
+               <lb n="9"/>her Hartmüt von Schúltingheim
+               <lb n="10"/>her Hug von Vegersheim
+               <lb n="11"/>Johans von Sarburg
+               <lb n="12"/>Claus von Kageneck
+               <lb n="13"/>Heinrich Marsilii
+               <lb n="14"/>Ott Ripelin
+               <lb n="15"/>Claus von <choice><abbr>vinckenwilr̃</abbr><expan>vinckenwiler</expan></choice>
+               <lb n="16"/>Hesse Im wasser
+               <lb n="17"/>Rüdiger von hunßvelt
+               <lb n="18"/>Andres Wirich
+            </p>
+            <p>
+               <lb n="19"/>Diser Rat ist geschriben uß eim briefe, der vohet an
+               <lb n="20"/>Reymboldus liebencellarius magister Consules
+               <lb n="21"/>et universitas <choice><abbr>civiũ</abbr><expan>civium</expan> <choice><abbr>argentiñ</abbr><expan>argentinensis</expan></choice> Notum etc. und
+               <lb n="22"/>stät sin datum Anno <choice><abbr>dm̃</abbr><expan>domini</expan></choice> M° CC° LXXII° In crastino
+               <lb n="23"/><choice><abbr>btĩ</abbr><expan>beati</expan></choice> Adolffi
+            </p>
+            <pb n="30"/>
+            <cb n="1"/>
+            <p>
+               <lb n="1"/>Anno <choice><abbr>dm̃</abbr><expan>domini</expan></choice> M° CC° LXXIII°
+               <lb n="2"/>1273
+               <lb/>
+               <lb n="3"/><choice><abbr>Iꝷ</abbr><expan>Item</expan></choice> <choice><abbr>h̉</abbr><expan>her</expan></choice> R. Liebenzeller
+               <lb n="4"/><choice><abbr>Iꝷ</abbr><expan>Item</expan></choice> her Hans Jensit der brusch
+               <lb n="5"/><choice><abbr>Iꝷ</abbr><expan>Item</expan></choice> her Marx
+               <lb n="6"/><choice><abbr>Iꝷ</abbr><expan>Item</expan></choice> her Goselin zu Sant Thoman
+               <lb n="7"/><choice><abbr>Iꝷ</abbr><expan>Item</expan></choice> her Niclaus von Kageneck
+               <lb n="8"/><choice><abbr>Iꝷ</abbr><expan>Item</expan></choice> Rudiger von hundsfelden
+            </p>
+            <p>
+               <lb n="9"/>Dises ist geschriben uß <choice><abbr>einẽ</abbr><expan>einem</expan></choice> <choice><abbr>latinisch</abbr><expan>latinischen</expan></choice>
+               <lb n="10"/>brieff faht an Hugo de Vegerßheim
+               <lb n="11"/><choice><abbr>Mg̃r</abbr><expan>Magister</expan></choice> <choice><abbr>ꝰsules</abbr><expan>consules</expan></choice> et universitas <choice><abbr>Civiũ</abbr><expan>Civium</expan></choice>
+               <lb n="12"/><choice><abbr>argentiñ</abbr><expan>argentinensis</expan></choice> etc. des datum Anno <choice><abbr>dm̃</abbr><expan>domini</expan></choice>
+               <lb n="13"/>1278 feria Secunda ante feste
+               <lb n="14"/>Johanis <choice><abbr>bapte</abbr><expan>baptiste</expan></choice>
+            </p>
+            <cb n="2"/>
+            <p>
+               <lb n="1"/>Anno <choice><abbr>dm̃</abbr><expan>domini</expan></choice> M° CC° LXXIIII°
+               <lb n="2"/>1274
+            </p>
+            <pb n="31"/>
+            <cb n="1"/>
+            <p>
+               <lb n="1"/>Anno <choice><abbr>dm̃</abbr><expan>domini</expan></choice> M° CC° LXXV
+               <lb n="2"/>1275
+            </p>
+            <cb n="2"/>
+            <p>
+               <lb n="1"/>Anno <choice><abbr>dm̃</abbr><expan>domini</expan></choice> M° CC° LXXVI°
+               <lb n="2"/>1276
+               <lb/>
+               <lb/>die vier <choice><abbr>meisteᷣ</abbr><expan>meistere</expan></choice>
+               <lb n="3"/>her hans Jensit der brúsch
+               <lb n="4"/>her Cüne Süner
+               <lb n="5"/>her Reimbolt von Friburg
+               <lb n="6"/>her Hartman von Schiltingheim
+               <lb/>
+               <lb n="7"/>her Hug von vegerßheim
+               <lb n="8"/>Hug Ripelin
+               <lb n="9"/>Erbe Stúbenweg
+               <lb n="10"/>her lux
+               <lb n="11"/>Niclaus von kageneck
+               <lb n="12"/>Colin
+               <lb n="13"/>Johanns von Sarburg
+               <lb n="14"/><choice><abbr>h.</abbr><expan>her</expan></choice> marsilii
+               <lb n="15"/>Hesse Im wasser
+               <lb n="16"/>Heinrich lentzelin
+               <lb n="17"/>Niclaus des zorns Sün
+            </p>
+            <p>
+               <lb n="18"/>Diser Rat ist geschriben uß eim briefe der vohet
+               <lb n="19"/>an Hartmutus de Schiltingheim Magister et
+               <lb n="20"/>consules <choice><abbr>argeñ</abbr><expan>argentinensis</expan></choice> Notum <choice><abbr>facimꝰ</abbr><expan>facimus</expan></choice> unversis etc. und
+               <lb n="21"/>stöt sin datum <choice><abbr>Actũ</abbr><expan>Actum</expan></choice> Anno <choice><abbr>dm̃</abbr><expan>domini</expan></choice> M° CC°° LXXsepto feria
+               <lb n="22"/>tertia ante festum <choice><abbr>Johĩs</abbr><expan>Johanis</expan></choice> baptiste <choice><abbr>pñtibꝰ</abbr><expan>presentibus</expan></choice> <choice><abbr>ut̃s</abbr><expan>utque</expan></choice>
+            </p>
+            <pb n="32"/>
+            <cb n="1"/>
+            <p>
+               <lb n="1"/>Anno <choice><abbr>dm̃</abbr><expan>domini</expan></choice> M° CC° LXXVII°
+               <lb n="2"/>1277
+               <lb/>
+               <lb/>die vier <choice><abbr>meisteᷣ</abbr><expan>meistere</expan></choice>
+               <lb n="3"/>her Niclaus Zorn
+               <lb n="4"/>her Burckart der Spender
+               <lb n="5"/>her Reimbolt der lieben zeller
+               <lb n="6"/>her Marcus
+               <lb/>
+               <lb n="7"/>her Johans von Bluͦmenowe
+               <lb n="8"/>her Gerhart Schaup
+               <lb n="9"/>her Erbe Stúben weg
+               <lb n="10"/>her Johans des Zorns brüder sün
+               <lb n="11"/>her niclaus her Reimböildelins brüder
+               <lb n="12"/>her Johans von Kageneck
+               <lb n="13"/>her Hartung an dem wasser
+               <lb n="14"/>her Wetzel Marsilius
+               <lb n="15"/>her Conrat der Brager
+               <lb n="16"/>her Heintz Lentzelin
+               <lb n="17"/>Reimbolt von Lingolvesheim
+               <lb n="18"/>Lentzelin vor dem Múnster
+               <lb n="19"/>Rülin Ripelin
+               <lb n="20"/>Heintz von wolffgangesheim
+            </p>
+            <p>
+               <lb n="21"/>Diser Rat ist geschriben uß eim Rat des <choice><abbr>datũ</abbr><expan>datum</expan>
+               <lb n="22"/>stat an zinstag noch Bonifacii Anno
+               <lb n="23"/><choice><abbr>dm̃</abbr><expan>domini</expan> M° CC° LXXVII°
+            </p>
+            <p>
+               <lb n="24"/>Am selben Jar sind oúch Im Rat gesessen
+               <lb n="25"/>lút eins brieffs mit der stat großInsigel
+               <lb n="26"/>und Reimbolt LiebenZellers und Reimbolt
+               <lb n="27"/>Tuͦrants Insigel des <choice><abbr>daꝷ</abbr><expan>datum</expan></choice> túsent IIͨ
+               <lb n="28"/>und LXXVII am sant Margreden obent
+            </p>
+            <p>
+               <lb n="29"/><choice><abbr>Iꝷ</abbr><expan>Item</expan></choice> her Johans Jensit brusch
+               <lb n="30"/><choice><abbr>Iꝷ</abbr><expan>Item</expan></choice> her Húg Ripelin
+               <lb n="31"/><choice><abbr>Iꝷ</abbr><expan>Item</expan></choice> her Niclaús von <choice><abbr>Kagẽneck</abbr><expan>Kagenneck</expan></choice>
+               <lb n="32"/><choice><abbr>Iꝷ</abbr><expan>Item</expan></choice> her Lúcas die vier <choice><abbr>meist̉</abbr><expan>meister</expan></choice>
+               <lb/>
+               <lb n="33"/><choice><abbr>Iꝷ</abbr><expan>Item</expan></choice> her gotzlin vor <choice><abbr>S</abbr><expan>Sant</expan></choice> thoman
+               <lb n="34"/><choice><abbr>Iꝷ</abbr><expan>Item</expan></choice> her Hartmút von Schiltigkheim
+               <lb n="35"/><choice><abbr>Iꝷ</abbr><expan>Item</expan></choice> her Húg Cantzler
+               <lb n="36"/><choice><abbr>Iꝷ</abbr><expan>Item</expan></choice> her Petrús Ripelin
+               <lb n="37"/><choice><abbr>Iꝷ</abbr><expan>Item</expan></choice> her Reimbolt Stubenweg
+               <lb n="38"/><choice><abbr>Iꝷ</abbr><expan>Item</expan></choice> her Colin Under den <choice><abbr>koufflut</abbr><expan>koufflúten</expan></choice>
+               <lb n="39"/><choice><abbr>Iꝷ</abbr><expan>Item</expan></choice> her heß an dem Wasser
+               <lb n="40"/><choice><abbr>Iꝷ</abbr><expan>Item</expan></choice> Niclaús der Zorn suns
+               <lb n="41"/><choice><abbr>Iꝷ</abbr><expan>Item</expan></choice> Reimbolt, <abbr><abbr>her̃n</abbr><expan>herren</expan></abbr> Reimboldelins sun
+               <lb n="42"/><choice><abbr>Iꝷ</abbr><expan>Item</expan></choice> Ulrich Schwarber
+               <lb n="43"/><choice><abbr>Iꝷ</abbr><expan>Item</expan></choice> Ott Friderich
+               <lb n="44"/><choice><abbr>Iꝷ</abbr><expan>Item</expan></choice> Jacob von Barr
+            </p>
+            <cb n="2"/>
+            <p>
+               <lb n="1"/>Anno <choice><abbr>dm̃</abbr><expan>domini</expan></choice> M° CC° LXXVIII°
+               <lb n="2"/>1278
+            </p>
+            <p>
+               <lb n="3"/><choice><abbr>Iꝷ</abbr><expan>Item</expan></choice> Johannes Sturm
+               <lb n="4"/><choice><abbr>Iꝷ</abbr><expan>Item</expan></choice> Ebelin Hohenloch
+               <lb n="5"/><choice><abbr>Iꝷ</abbr><expan>Item</expan></choice> Johannes Sickelin
+               <lb n="6"/><choice><abbr>Iꝷ</abbr><expan>Item</expan></choice> Wilhelm von tegerfeld
+               <lb n="7"/><choice><abbr>Iꝷ</abbr><expan>Item</expan></choice> Niclaús <abbr><abbr>her̃n</abbr><expan>herren</expan></abbr> erben sun
+               <lb n="8"/><choice><abbr>Iꝷ</abbr><expan>Item</expan></choice> <choice><abbr>Paulꝰ</abbr><expan>Paulus</expan></choice> Wirich
+               <lb n="9"/><choice><abbr>Iꝷ</abbr><expan>Item</expan></choice> Húg ripelin
+               <lb n="10"/><choice><abbr>Iꝷ</abbr><expan>Item</expan></choice> Hetzels von truchterßheim
+               <lb n="11"/><choice><abbr>Iꝷ</abbr><expan>Item</expan></choice> gotzle der schoúber sun
+            </p>
+            <pb n="33"/>
+            --
 Anno domini 1279
 
 Her Niclaus Mursel
