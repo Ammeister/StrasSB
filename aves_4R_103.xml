@@ -15,7 +15,6 @@
             ̃
             ꝰ : lettre modificative us
             ͬ : Diacritique lettre minuscule latine R, U+036C
-            ﬆ : Ligature minuscule latine st U+FB06
             & : Perluéte esperluète, esperluette, et U+0026
             ꝝ : Lettre minuscule latine rum rotunda U+A75D
             ꝫ : Lettre minuscule latine et
@@ -25,6 +24,7 @@
             ꝭ : Lettre minuscule latine is U+A76D
             ꝷ : Lettre minuscule latine tum U+A777
             ó : 
+            ƚ : Lettre minuscule latine L rayé
          </publicationStmt>
          <sourceDesc>
             <p>Information about the source</p>
@@ -86,8 +86,8 @@
                <lb n="2"/>1225
                <lb/>
                <lb n="3"/>Omnibus <choice><abbr>p̃sens</abbr><expan>presens</expan><choice> <choice><abbr>scriptũ</abbr><expan>scriptum</expan></choice> <choice><abbr>intúentibꝰ</abbr><expan>intúentibus</expan></choice> Albertús <choice><abbr>Begͬe</abbr><expan>Beger</expan></choice>
-               <lb n="4"/>Magiﬆer Civiúm etc Consiliarĩi <choice><abbr>Argentinẽn</abbr><expan>Argentinensis</expan></choice>, rei
-               <lb n="5" rend="hyphen"/>gesta noticiam Nererúm geﬆarum veritas cadat
+               <lb n="4"/>Magister Civiúm etc Consiliarĩi <choice><abbr>Argentinẽn</abbr><expan>Argentinensis</expan></choice>, rei
+               <lb n="5" rend="hyphen"/>gesta noticiam Nererúm gestarum veritas cadat
                <lb n="6"/>in obliúionem <choice><abbr>Literraꝝ</abbr><expan>Litterrarum</expan></choice> debet memoria æternari.
                <lb n="7"/>Nouerint ergo tam presentes <choice><abbr>q̃ꝫ</abbr><expan>quam</expan></choice> posteri. concives <choice><abbr>nr̃os</abbr><expan>nostros</expan></choice>
                <lb n="8"/><choice><abbr>vidẽt</abbr><expan>vident</expan></choice>. Iohannem uitulúm. etc Hessonem de Molles-
@@ -100,14 +100,14 @@
                <lb n="15" rend="hyphen"/>pore fiúnt labuntúr, etc a memoria heim plura de
                <lb n="16" rend="hyphen"/>cident, visi scripto <choice><abbr>commendarentᷣ</abbr><expan>commendarenter</expan></choice> ; <choice><abbr>p̃sentem</abbr><expan>presentem</expan></choice> paginú-
                <lb n="17" rend="hyphen"/>lam. Sigillo Civitatis munitam imemorato Iohan
-               <lb n="18" rend="hyphen"/>ni Vitulo, etc suis successoribús in teﬆimonium
+               <lb n="18" rend="hyphen"/>ni Vitulo, etc suis successoribús in testimonium
                <lb n="19"/>concessimús habendam. Anno domini M°.CC°.XXV°.
-               <lb n="20"/>In tempore noﬆri consilis uidelicet Wernheri mar
+               <lb n="20"/>In tempore nostri consilis uidelicet Wernheri mar
                <lb n="21"/>scalti. Waltheri Sculteti. dieterici Stehelini. Burchardi
                <lb n="22"/>sculteti de ehenheim Erbonis iudicis Friderici dispen
                <lb n="23"/>satoris, Weltstini Nicolai. Ottonis gudelfindi. Si-
                <lb n="24"/>gilini walleden. Rudolffi filii Lentzelini etc predicti
-               <lb n="25"/>Iohãnis vitúli. Alberti Begeronis albi magiﬆri
+               <lb n="25"/>Iohãnis vitúli. Alberti Begeronis albi magistri
                <lb n="26"/>Burgensiũ interfuerunt etc alii quam plures
             </p>
             <cb n="2"/>
@@ -388,7 +388,7 @@
             </p>
             <p>
                <lb n="24"/>.Uss einem andern brieff.
-               <lb n="25"/>Reimboldus Stubenwec et Rudolffus filius Lentzelini, magiﬆri
+               <lb n="25"/>Reimboldus Stubenwec et Rudolffus filius Lentzelini, magistri
                <lb n="26"/>burgensium et Consules Argentinenses. <choice><abbr>Nereꝝ</abbr><expan>Nererum</expan></choice> <choice><abbr>gestaꝝ</abbr><expan>gestarum</expan></choice> Veritas cadat
                <lb n="27"/>in <choice><abbr>oblivionẽ</abbr><expan>oblivionem</expan></choice>, <choice><abbr>litterarũ</abbr><expan>litterarum</expan></choice> debet memoria perennari. Noverint <choice><abbr>ig̃r</abbr><expan>igitur</expan></choice> Uni-
                <lb n="28" rend="hyphen"/>versi præsens <choice><abbr>scriptũ</abbr><expan>scriptum</expan></choice> inspecturi, <choice><abbr>qꝫ</abbr><expan>que</expan></choice> nos de eõi consensu <choice><abbr>scabinoꝝ</abbr><expan>scabinorum</expan></choice> et officia-
@@ -1222,7 +1222,7 @@
                <lb n="2"/>1282
                <lb/>
                <lb/>die vier
-               <lb/><choice><abbr>Meistẻ</abbr><expan>Meistere</expan></choice>
+               <lb/><choice><abbr>Meisteᷣ</abbr><expan>Meistere</expan></choice>
                <lb n="3"/>her Niclaus Zorn
                <lb n="4"/>her Walther Spender
                <lb n="5"/>her Burckart von <choice><abbr>Rum̃elnheim</abbr><expan>Rummelnheim</expan></choice>
@@ -1276,7 +1276,7 @@
                <lb n="2"/>1284
                <lb/>
                <lb/>die vier
-               <lb/><choice><abbr>Meistẻ</abbr><expan>Meistere</expan></choice>
+               <lb/><choice><abbr>Meisteᷣ</abbr><expan>Meistere</expan></choice>
                <lb n="3"/>Her Johans panfile
                <lb n="4"/>Her Reimboͤldelin
                <lb n="5"/>Her Lucas
@@ -1369,7 +1369,7 @@
                <lb n="16"/><choice><abbr>H.</abbr><expan>Herr</expan></choice> Burckhard der pfiler und ander des rats
             </p>
             <p>
-               <lb n="17"/>Wir Peter Ruplin der <choice><abbr>Meistẻ</abbr><expan>Meister</expan></choice> und der Rath von Straß
+               <lb n="17"/>Wir Peter Ruplin der <choice><abbr>Meisteᷣ</abbr><expan>Meister</expan></choice> und der Rath von Straß
                <lb n="18" rend="hyphen"/>burg, Thun kund kund alln den, dy disen
                <lb n="19"/>brief gesehn, oder gehorrn, das herr Wolfram
                <lb n="20"/>hat gegebn zukauffn fur ledig eign, das clain
@@ -1859,33 +1859,32 @@
             <cb n="2"/>
             <p>
                <lb n="1"/>Anno <choice><abbr>dm̃</abbr><expan>domini</expan></choice> M° CCC° II°
-               <lb n="2"/>1302
                <lb/>
                <lb/>drie
                <lb/><choice><abbr>meisteᷣ</abbr><expan>meistere</expan></choice>
-               <lb n="3"/>Johanns Hetzel
-               <lb n="4"/>Her Heinrich von wolffgangesheim
-               <lb n="5"/>Her Burckart phanphilin
+               <lb n="2"/>Johanns Hetzel
+               <lb n="3"/>Her Heinrich von wolffgangesheim
+               <lb n="4"/>Her Burckart phanphilin
                <lb/>
-               <lb n="6"/>Her Reimbolt der Lieben zeller
-               <lb n="7"/>Her Goͤsselin Schaub
-               <lb n="8"/>Her Johans von Kageneck der Junge
-               <lb n="9"/>Her Johans Hundesvelt
-               <lb n="10"/>Her Sifrit von Vegersheim
-               <lb n="11"/>Her Reimbolt turant
-               <lb n="12"/>Her Johans howe messer
-               <lb n="13"/>Her Wetzel Marsilies der Junge
-               <lb n="14"/>Her niclaus dútschman
-               <lb n="15"/>Her Johans
-               <lb n="16"/>Her Conrat Ripelin
-               <lb n="17"/>Her Burckart, <choice><abbr>hᷣn</abbr><expan>hern</expan></choice> Erben sün úber brúsch
-               <lb n="18"/>her Burckart Baldeck
-               <lb n="19"/>her Johans Helffenstein
-               <lb n="20"/>her niclaus der Maler
-               <lb n="21"/>Johans Lentzelin
-               <lb n="22"/>Claus kolin
-               <lb n="23"/>Erbe under den koufflúten
-               <lb n="24"/>Claus Soldan
+               <lb n="5"/>Her Reimbolt der Lieben zeller
+               <lb n="6"/>Her Goͤsselin Schaub
+               <lb n="7"/>Her Johans von Kageneck der Junge
+               <lb n="8"/>Her Johans Hundesvelt
+               <lb n="9"/>Her Sifrit von Vegersheim
+               <lb n="10"/>Her Reimbolt turant
+               <lb n="11"/>Her Johans howe messer
+               <lb n="12"/>Her Wetzel Marsilies der Junge
+               <lb n="13"/>Her niclaus dútschman
+               <lb n="14"/>Her Johans
+               <lb n="15"/>Her Conrat Ripelin
+               <lb n="16"/>Her Burckart, <choice><abbr>hᷣn</abbr><expan>hern</expan></choice> Erben sün úber brúsch
+               <lb n="17"/>her Burckart Baldeck
+               <lb n="18"/>her Johans Helffenstein
+               <lb n="19"/>her niclaus der Maler
+               <lb n="20"/>Johans Lentzelin
+               <lb n="21"/>Claus kolin
+               <lb n="22"/>Erbe under den koufflúten
+               <lb n="23"/>Claus Soldan
             </p>
             <p>
                <lb n="25"/>Geschriben uß eim briefe des datum
@@ -1895,1115 +1894,1567 @@
             <pb n="45"/>
             <p>
                <lb n="1"/>Anno <choice><abbr>dm̃</abbr><expan>domini</expan></choice> M° CCC° III°
-               <lb n="2"/>1303
                <lb/>
                <lb/>drÿ meistere
-               <lb n="3"/><choice><abbr>Iꝷ</abbr><expan>Item</expan></choice> Heinrich Wetzel
-               <lb n="4"/>Her Niclaus von Kageneck der Junge
-               <lb n="5"/>Her Albreht Rülenderlin
+               <lb n="2"/><choice><abbr>Iꝷ</abbr><expan>Item</expan></choice> Heinrich Wetzel
+               <lb n="3"/>Her Niclaus von Kageneck der Junge
+               <lb n="4"/>Her Albreht Rülenderlin
                <lb/>
-               <lb n="6"/>Her Peter von Schoneck
-               <lb n="7"/>Her Johans Schilt
-               <lb n="8"/>Her Gunther von landsperg
-               <lb n="9"/>Her Johans der Spender
-               <lb n="10"/>Her Niclaus ottfriderich
-               <lb n="11"/>Her Peter Stúbenweg
-               <lb n="12"/>Her Burckart Schoup
-               <lb n="13"/>Her Johans Viniantz
-               <lb n="14"/>Her Großerbe
-               <lb n="15"/>Her dietrich von Epfich
-               <lb n="16"/>Her Reymbolt brandecke
-               <lb n="17"/>Her Reymbolt, <choice><abbr>hᷣn</abbr><expan>hern</expan></choice> Erben Sün úber brúsch
-               <lb n="18"/>Her Johans Schott
-               <lb n="19"/>Her Johans glosener
-               <lb n="20"/>Her ludwig von bluͤmenowe
-               <lb n="21"/>Her Wetzel broger Rittere
-               <lb n="22"/>Eberhart Sicke
-               <lb n="23"/>Rülin lentzelin
-               <lb n="24"/>Niclaus Panfilin
-               <lb n="25"/>Conrat Rihter
+               <lb n="5"/>Her Peter von Schoneck
+               <lb n="6"/>Her Johans Schilt
+               <lb n="7"/>Her Gunther von landsperg
+               <lb n="8"/>Her Johans der Spender
+               <lb n="9"/>Her Niclaus ottfriderich
+               <lb n="10"/>Her Peter Stúbenweg
+               <lb n="11"/>Her Burckart Schoup
+               <lb n="12"/>Her Johans Viniantz
+               <lb n="13"/>Her Großerbe
+               <lb n="14"/>Her dietrich von Epfich
+               <lb n="15"/>Her Reymbolt brandecke
+               <lb n="16"/>Her Reymbolt, <choice><abbr>hᷣn</abbr><expan>hern</expan></choice> Erben Sün úber brúsch
+               <lb n="17"/>Her Johans Schott
+               <lb n="18"/>Her Johans glosener
+               <lb n="19"/>Her ludwig von bluͤmenowe
+               <lb n="20"/>Her Wetzel broger Rittere
+               <lb n="21"/>Eberhart Sicke
+               <lb n="22"/>Rülin lentzelin
+               <lb n="23"/>Niclaus Panfilin
+               <lb n="24"/>Conrat Rihter
                <lb/>
-               <lb n="26"/>Diser Rat ist geschriben uß eim briefe des <choice><abbr>datũ</abbr><expan>datum</expan></choice> stoͤt
-               <lb n="27"/>uff Samstag noch sant Gregorien tag do man zalt
-               <lb n="28"/>von gots geburt dritzehenhundert und vier jor
+               <lb n="25"/>Diser Rat ist geschriben uß eim briefe des <choice><abbr>datũ</abbr><expan>datum</expan></choice> stoͤt
+               <lb n="26"/>uff Samstag noch sant Gregorien tag do man zalt
+               <lb n="27"/>von gots geburt dritzehenhundert und vier jor
             </p>
             <cb n="2"/>
             <p>
                <lb n="1"/>Anno <choice><abbr>dm̃</abbr><expan>domini</expan></choice> M° CCC° IIII°
-               <lb n="2"/>1304
                <lb/>
                <lb/>die vier <choice><abbr>meisteᷣ</abbr><expan>meistere</expan></choice>
-               <lb n="3"/>Wilhelm Nope
-               <lb n="4"/>Her Niclaus dútschman
-               <lb n="5"/>Her Hetzel Markes
-               <lb n="6"/>Her Niclaus von Rymuntheim
+               <lb n="2"/>Wilhelm Nope
+               <lb n="3"/>Her Niclaus dútschman
+               <lb n="4"/>Her Hetzel Markes
+               <lb n="5"/>Her Niclaus von Rymuntheim
                <lb/>
-               <lb n="7"/>Her Hug Stúbenweg
-               <lb n="8"/>Her Heinrich von Wolffgangesheym
-               <lb n="9"/>Her Niclaus der Waldener
-               <lb n="10"/>Her <choice><abbr>Joh̃es</abbr><expan>Johanes</expan></choice> von Bluͦmenoͤwe
-               <lb n="11"/>Her <choice><abbr>Joh̃es</abbr><expan>Johanes</expan></choice> der Junge
-               <lb n="12"/>Her Goͤsselin von Kagenecke
-               <lb n="13"/>Her <choice><abbr>Joh̃es</abbr><expan>Johanes</expan></choice> von Mùlnheim
-               <lb n="14"/>Her Sifrit von Vegersheym
-               <lb n="15"/>Her Hug Schoup
-               <lb n="16"/>Her Wetzel marsilies der Junge
-               <lb n="17"/>Her Conrat Ripelin
-               <lb n="18"/>Her Reymbolt Turant <choice><abbr>Ritteᷣ</abbr><expan>Rittere</expan></choice>
-               <lb n="19"/><choice><abbr>Joh̃s</abbr><expan>Johanes</expan></choice> Lentzelin
-               <lb n="20"/>Heintzeman Abbt
-               <lb n="21"/>Reymbolt von Achenheim
-               <lb n="22"/>Claus von <choice><abbr>vinckenwilr̃</abbr><expan>Vinckenwiler</expan></choice>
-               <lb n="23"/>Claus Colin
-               <lb n="24"/>Peter Panfelin
-               <lb n="25"/>Burckart <choice><abbr>hᷣn</abbr><expan>hern</expan></choice> Peters Sün von Schoͤneck
-               <lb n="26"/>Conrat Broger
+               <lb n="6"/>Her Hug Stúbenweg
+               <lb n="7"/>Her Heinrich von Wolffgangesheym
+               <lb n="8"/>Her Niclaus der Waldener
+               <lb n="9"/>Her <choice><abbr>Joh̃es</abbr><expan>Johanes</expan></choice> von Bluͦmenoͤwe
+               <lb n="10"/>Her <choice><abbr>Joh̃es</abbr><expan>Johanes</expan></choice> der Junge
+               <lb n="11"/>Her Goͤsselin von Kagenecke
+               <lb n="12"/>Her <choice><abbr>Joh̃es</abbr><expan>Johanes</expan></choice> von Mùlnheim
+               <lb n="13"/>Her Sifrit von Vegersheym
+               <lb n="14"/>Her Hug Schoup
+               <lb n="15"/>Her Wetzel marsilies der Junge
+               <lb n="16"/>Her Conrat Ripelin
+               <lb n="17"/>Her Reymbolt Turant <choice><abbr>Ritteᷣ</abbr><expan>Rittere</expan></choice>
+               <lb n="18"/><choice><abbr>Joh̃s</abbr><expan>Johanes</expan></choice> Lentzelin
+               <lb n="19"/>Heintzeman Abbt
+               <lb n="20"/>Reymbolt von Achenheim
+               <lb n="21"/>Claus von <choice><abbr>vinckenwilr̃</abbr><expan>Vinckenwiler</expan></choice>
+               <lb n="22"/>Claus Colin
+               <lb n="23"/>Peter Panfelin
+               <lb n="24"/>Burckart <choice><abbr>hᷣn</abbr><expan>hern</expan></choice> Peters Sün von Schoͤneck
+               <lb n="25"/>Conrat Broger
             </p>
             <p>
-               <lb n="27"/><choice><abbr>Geschr</abbr><expan>Geschriben</expan></choice> uß eym briefe des <choice><abbr>datũ</abbr><expan>datum</expan></choice> stät an donrstag
-               <lb n="28"/>noch aller heiligen Meß XIII^c und vier Jore
+               <lb n="26"/><choice><abbr>Geschr</abbr><expan>Geschriben</expan></choice> uß eym briefe des <choice><abbr>datũ</abbr><expan>datum</expan></choice> stät an donrstag
+               <lb n="27"/>noch aller heiligen Meß XIII^c und vier Jore
             </p>
             <pb n="46"/>
             <cb n="1"/>
             <p>
---
-Anno domini 1305
+               <lb n="1"/>Anno <choice><abbr>dm̃</abbr><expan>domini</expan></choice> M CCC°. V.
+               <lb/>
+               <lb/>die vier meistere
+               <lb n="2"/>Gosselin Schoup
+               <lb n="3"/>Her Johanns Panphelin
+               <lb n="4"/>Her Johanns Viniantz
+               <lb n="5"/>Her Burckart Schoup
+               <lb/>
+               <lb n="6"/>Her Andres Murnhart
+               <lb n="7"/>Her Ruͤlin Rypelin
+               <lb n="8"/>Her Cuͦne von Kageneck,
+               <lb n="9"/>Her Reimbolt Húffelin
+               <lb n="10"/>Her Reimbolt Brandeck,
+               <lb n="11"/>Her Conrat Hoyer,
+               <lb n="12"/>Her Wetzel Broger,
+               <lb n="13"/>Her Walther von Múlnheim
+               <lb n="14"/>Her Ruͦdolff Ripelin
+               <lb n="15"/>Her Wernher Hentwing
+               <lb n="16"/>Her Johanns von Schaffoltzheim
+               <lb n="17"/>Her Johanns Klosener,
+               <lb n="18"/>Her Johanns Loͤselin
+               <lb n="19"/>Her Ludwig von Dambach <choice><abbr>Ritteᷣ</abbr><expan>Rittere</expan></choice>
+               <lb n="20"/>Ruͦdolff Zoller,
+               <lb n="21"/>Hug von Schoͤneck,
+               <lb n="22"/>Ruͤllin Lentzlin
+               <lb n="23"/>Burckart Hesse
+               <lb n="24"/>Johanns Lentzlin
+               <lb n="25"/>Peter von Hunesfelt
+            </p>
+            <p>
+               <lb n="26"/>Geschriben uß einem briefe des datum
+               <lb n="27"/>stet <choice><abbr>sabb̃o</abbr><expan>sabbato</expan></choice> <choice><abbr>añ</abbr><expan>ante</expan></choice> letare, Anno XIII^c
+               <lb n="28"/>und VI Jare,
+            </p>
+            <cb n="2"/>
+            <p>
+               <lb n="1"/>Anno <choice><abbr>dm̃</abbr><expan>domini</expan></choice> M° CCC° VI
+               <lb/>
+               <lb/>die vier
+               <lb/><choice><abbr>meisteᷣ</abbr><expan>meistere</expan></choice>
+               <lb n="2"/>Burckart Reimboͤldelin
+               <lb n="3"/>Her Conrat Rypelin
+               <lb n="4"/>Her Johanns Stúbenweg
+               <lb n="5"/>Her Syfrit von vegerßheim
+               <lb/>
+               <lb n="6"/>Her Symont Hetzel,
+               <lb n="7"/>Her Heinrich von Wolffgangesheim
+               <lb n="8"/>Her Johanns Schilt
+               <lb n="9"/>Her Peter von Schoͤneck,
+               <lb n="10"/>Her Gotze von grostein
+               <lb n="11"/>Her Albreht Ruͦlenderlin
+               <lb n="12"/>Her Reimbolt der Liebenzeller,
+               <lb n="13"/>Her Niclaus von Rymuntheim
+               <lb n="14"/>Her Hetzel marx
+               <lb n="15"/>Her Johanns der Junge
+               <lb n="16"/>Her Niclaus ott fridrich
+               <lb n="17"/>Her Niclaus von Kageneck,
+               <lb n="18"/>Her Wilhelm Nape,
+               <lb n="19"/>Her Burckart der pfiler,
+               <lb n="20"/>Her Burckart panphelin
+               <lb n="21"/>Her Hug Rihter, <choice><abbr>Ritteᷣ</abbr><expan>Rittere</expan></choice>
+               <lb n="22"/>Eberhart Sicke
+               <lb n="23"/>Johanns von Wintertur zuͦm Rugel
+               <lb n="24"/>Johanns Lentzel
+               <lb n="25"/>Conrat Broger,
+            </p>
+            <p>
+               <lb n="26"/>Geschriben uß eim brieve des <choice><abbr>datũ</abbr><expan>datum</expan></choice>
+               <lb n="27"/>stat an fritag nach Sant Michels messe
+               <lb n="28"/>Anno <choice><abbr>dm̃</abbr><expan>domini</expan></choice> M CCC° VI
+            </p>
+            <p>
+               <lb n="29"/>Item dißer Rhat steht gleichförmig In eim Kaúff
+               <lb n="30" rend="hyphen"/>brieff uber das hauß Zúr gans an Krämergasß
+               <lb n="31"/>steht das datúm uff Katherinen abend An-
+               <lb n="32" rend="hyphen"/>no XIII^c VI°.
+            </p>
+            <pb n="47"/>
+            <cb n="1"/>
+            <p>
+               <lb n="1"/>Anno <choice><abbr>dm̃</abbr><expan>domini</expan></choice> M CCC° VII°,
+               <lb/>
+               <lb/>die vier <choice><abbr>meisteᷣ</abbr><expan>meistere</expan></choice>
+               <lb n="2"/>Johanns Hetzel
+               <lb n="3"/>Her Hug <choice><abbr>Scoup</abbr><expan>Schoup</expan></choice>
+               <lb n="4"/>Claus Koͤlin
+               <lb n="5"/>Her Niclaus <choice><abbr>Walden̉</abbr><expan>Waldener</expan></choice>
+               <lb/>
+               <lb n="6"/>Her Reimbolt Reymboͤldelin
+               <lb n="7"/>Her Johanns von Wolffgangesheim
+               <lb n="8"/>Her Johanns Hunesfelt
+               <lb n="9"/>Her Niclaus tútschman
+               <lb n="10"/>Her Reimbolt Brandeck,
+               <lb n="11"/>Her Peter Stúbenweg,
+               <lb n="12"/>Her Hug Zorn,
+               <lb n="13"/>Her Burckart <choice><abbr>Schulths̃</abbr><expan>Schultheiss</expan></choice>
+               <lb n="14"/>Her Ludwig von Bluͦmenowe,
+               <lb n="15"/>Her Hug Wirich
+               <lb n="16"/>Her Johanns von Schaffoltzheim
+               <lb n="17"/>Her Jacob von Barre Rittere
+               <lb n="18"/>Peter Swarber,
+               <lb n="19"/>Ruͤllin Lentzlin
+               <lb n="20"/>Conrat Rihter,
+               <lb n="21"/>Claus Soldan
+               <lb n="22"/>Berhtolt Krantz
+               <lb n="23"/><choice><abbr>Henn̉</abbr><expan>Henner</expan></choice> von Duntzenheim
+               <lb n="24"/>Peter Rypelin
+            </p>
+            <p>
+               <lb n="25"/><choice><abbr>Geschribñ</abbr><expan>Geschriben</expan></choice> uß eim briefe des datum
+               <lb n="26"/>stet an Samstag vor dem Schoͤnen
+               <lb n="27"/>nontage Anno XIII^c und VIII Jare
+            </p>
+            <cb n="2"/>
+            <p>
+               <lb n="1"/>Anno <choice><abbr>dm̃</abbr><expan>domini</expan></choice> M CCC° VIII°
+               <lb/>
+               <lb/>die drye <choice><abbr>meisteᷣ</abbr><expan>meistere</expan></choice>
+               <lb n="2"/>Cuͦn von Kageneck
+               <lb n="3"/>Hug von Schoͤneck
+               <lb n="4"/>Her Reimbolt húffelin
+               <lb/>
+               <lb n="5"/>Her Gúnther von Landesperg
+               <lb n="6"/>Her Voltz von hochvelden,
+               <lb n="7"/>Her Reymbolt der lieben zeller
+               <lb n="8"/>Her Ruͤdolff Ripelin
+               <lb n="9"/>Her Niclaus von Rymontheim
+               <lb n="10"/>Her Burckart Panphelin
+               <lb n="11"/>Her Johanns von Múlnheim
+               <lb n="12"/>Her Syfrit von vegersheim
+               <lb n="13"/>Her Erbe under den Koufflúten
+               <lb n="14"/>Her Burckart Waldeck,
+               <lb n="15"/>Her Reymbolt Suͤsse,
+               <lb n="16"/>Her Johanns Schott
+               <lb n="17"/>Her Hug Rihter,
+               <lb n="18"/>Her Stehelin howemesser,
+               <lb n="19"/>her Johanns Helffenstein
+               <lb n="20"/>her Hug Wenser <choice><abbr>Ritteᷣ</abbr><expan>Rittere</expan></choice>,
+               <lb n="21"/>Johanns Lentzelin
+               <lb n="22"/>Hug von Bluͦmenowe
+               <lb n="23"/>Claus Schoup
+               <lb n="24"/>Burckart von Duntzenheim
+            </p>
+            <p>
+               <lb n="25"/>Diser Rat ist geschriben uß eym briefe des
+               <lb n="26"/><choice><abbr>datũ</abbr><expan>datum</expan></choice> stot uff Mentag vor dem Palme
+               <lb n="27"/>tag, Anno etc. XIII^c und VIIII
+            </p>
+            <pb n="48"/>
+            <cb n="1"/>
+            <p>
+               <lb n="1"/>Anno <choice><abbr>dm̃</abbr><expan>domini</expan></choice> M° CCC° VIIII
+               <lb/>
+               <lb/>die vier
+               <lb/>meister
+               <lb n="2"/>Ruͦdolff Zoller
+               <lb n="3"/>Her Peter Stúbenweg
+               <lb n="4"/>Her Wetzel Broger
+               <lb n="5"/>Her <choice><abbr>Johañs</abbr><expan>Johanns</expan></choice> von Wolffgangesheim
+               <lb/>
+               <lb n="6"/>Her Hetzel Marx
+               <lb n="7"/>Her Goͤsselin von Kageneck
+               <lb n="8"/>Her Hug Schoup
+               <lb n="9"/>Her Johanns panphelin
+               <lb n="10"/>Her Niclaus Dútscheman
+               <lb n="11"/>Her Johanns Finiantz
+               <lb n="12"/>Her Johanns von Schaffoltzheim
+               <lb n="13"/>Her Hoÿer
+               <lb n="14"/>Her Turant,
+               <lb n="15"/>Her Ludwig von Bluͤmenowe
+               <lb n="16"/>Her Hug Wyrich
+               <lb n="17"/>Her Reimbolt Nicol
+               <lb n="18"/>Her ludwig von Dambach <choice><abbr>Ritteᷣ</abbr><expan>Rittere</expan></choice>,
+               <lb n="19"/>Rúlin Lentzelin
+               <lb n="20"/>Claus Koͤlin
+               <lb n="21"/>Cuͦne under den Koufflúten
+               <lb n="22"/>Lentzelin,
+               <lb n="23"/>Burckart zuͦm Riet,
+               <lb n="24"/>Johanns von Wintertur der Junge
+               <lb n="25"/>Peter Koͤrnelin
+            </p>
+            <p>
+               <lb n="26"/>Diser Rat ist geschriben uß eym briefe
+               <lb n="27"/>des <choice><abbr>datũ</abbr><expan>datum</expan></choice> stet uff frytag nach sant adolffs
+               <lb n="28"/>tag Anno <choice><abbr>dm̃</abbr><expan>domini</expan></choice> XIII^c und Nún Jor
+            </p>
+            <cb n="2"/>
+            <p>
+               <lb n="1"/>Anno <choice><abbr>dm̃</abbr><expan>domini</expan></choice> M° CCC° X°
+               <lb/>
+               <lb/>die vier <choice><abbr>meisteᷣ</abbr><expan>meistere</expan></choice>
+               <lb n="2"/>Her Niclaus von Rymontheim
+               <lb n="3"/>Her Wetzel marsilies
+               <lb n="4"/>Johannes von Wintertur
+               <lb n="5"/>Her Niclaus friderich
+               <lb/>
+               <lb n="6"/>Her Symont hetzel
+               <lb n="7"/>Her Johanns Schilt
+               <lb n="8"/>Her voltz von hochvelden
+               <lb n="9"/>Her Reimbolt der Liebenzeller,
+               <lb n="10"/>Her Albreht Ruͦlenderlin
+               <lb n="11"/>Her Niclaus von Kageneck
+               <lb n="12"/>Her goͤsselin Schoup
+               <lb n="13"/>Her Burckart panfelin
+               <lb n="14"/>Her Johanns Stúbenweg
+               <lb n="15"/>Her Reimbolt Suͤsse
+               <lb n="16"/>Her Erbe von Achenheim
+               <lb n="17"/>Her Wernher Hentwing
+               <lb n="18"/>Her hug Rihter,
+               <lb n="19"/>Her Jacob des sun von Barre,
+               <lb n="20"/>der Maler Rittere
+               <lb n="21"/>Conrat Broger,
+               <lb n="22"/>Lentzlin gruͤnwalt
+               <lb n="23"/>Johanns <choice><abbr>hᷣn</abbr><expan>hern</expan></choice> Hug Stúbenwegs sun
+               <lb n="24"/>Burckart von Schoͤneck,
+               <lb n="25"/>Eberlin Sicke,
+            </p>
+            <p>
+               <lb n="26"/>Geschriben uß eim briefe des
+               <lb n="27"/>datum stat uff zinstag nach
+               <lb n="28"/>quasimodo, Anno etc. XIII^c XI°
+            </p>
+            <pb n="49"/>
+            <cb n="1"/>
+            <p>
+               <lb n="1"/>Anno <choice><abbr>dm̃</abbr><expan>domini</expan></choice> M° CCC° XI°
+               <lb/>
+               <lb/>die vier <choice><abbr>Meisteᷣ</abbr><expan>Meistere</expan></choice>
+               <lb n="2"/>Her Johanns Panfelin
+               <lb n="3"/>Her Johanns Hunesvelt
+               <lb n="4"/>Her Burckart Schoupt
+               <lb n="5"/>Her Johanns der Junge
+               <lb/>
+               <lb n="6"/>Her Rembolt Reinboldelin
+               <lb n="7"/>Her Niclaus Waldener
+               <lb n="8"/>Her Hetzel Marckus
+               <lb n="9"/>Her Johanns von Blumenowe
+               <lb n="10"/>Her Heinrich Wetzel
+               <lb n="11"/>Her Johanns von Wolffgangesheim
+               <lb n="12"/>Her Wilhelm Nope
+               <lb n="13"/>Her Johanns von Múlnheim
+               <lb n="14"/>Her Peter Stúbenweck
+               <lb n="15"/>Her Reinbolt Brandeck
+               <lb n="16"/>Her Rembolt Túrant
+               <lb n="17"/>Her Wetzel Broger
+               <lb n="18"/>Her Johanns Helffenstein <choice><abbr>Ritteᷣ</abbr><expan>Rittere</expan></choice>
+               <lb n="19"/>Ruͤlin Lentzelin
+               <lb n="20"/>Niclaus Coͤͤlin
+               <lb n="21"/>Cuntzlin Richter
+               <lb n="22"/>Hug von Schoͤnecke
+               <lb n="23"/>Niclaus Zorn
+               <lb n="24"/>Johanns von Wintertúr der Junge
+               <lb n="25"/>Johanns Sickelin der Alt
+            </p>
+            <p>
+               <lb n="26"/>Geschriben uß eim briefe des <choice><abbr>datũ</abbr><expan>datum</expan></choice> stöt
+               <lb n="27"/>am fritag noch sant Martins tag Anno
+               <lb n="28"/><choice><abbr>dm̃</abbr><expan>domini</expan></choice> XIII^c und eilff Jore
+            </p>
+            <cb n="2"/>
+            <p>
+               <lb n="1"/>Anno <choice><abbr>dm̃</abbr><expan>domini</expan></choice> M° CCC XII°
+               <lb/>
+               <lb/>die vier <choice><abbr>meisteᷣ</abbr><expan>meistere</expan></choice>
+               <lb n="2"/>Her Hug Zorn
+               <lb n="3"/>her Syfrit von vegersheim
+               <lb n="4"/>her Burckart <choice><abbr>Schulths̃</abbr><expan>Schultheiss</expan></choice>
+               <lb n="5"/>her Albreht Ruͦlenderlin
+               <lb/>
+               <lb n="6"/>her voltz von hochvelden
+               <lb n="7"/>her Reimbolt Liebenzeller,
+               <lb n="8"/>her Johanns Stúbenweg
+               <lb n="9"/>her Burckart Panfelin
+               <lb n="10"/>her Hug Schoup
+               <lb n="11"/>her Hug Rihter
+               <lb n="12"/>her Johanns Schotte,
+               <lb n="13"/>her Walther von Múlnheim
+               <lb n="14"/>her Reimbolt Suͤsse
+               <lb n="15"/>her Conrat hoyer
+               <lb n="16"/>her Niclaus maler
+               <lb n="17"/>her Johanns Ripelin
+               <lb n="18"/>her Reymbolt <choice><abbr>hᷣn</abbr><expan>hern</expan></choice> Burckart Reimboldelins sun Rittere,
+               <lb n="19"/>Heinrich von Múlnheim
+               <lb n="20"/>Claus Tauler,
+               <lb n="21"/>Burckart von Schoͤneck,
+               <lb n="22"/>Claus Soldan
+               <lb n="23"/>Johanns Stúbenweg
+               <lb n="24"/>Goͤtze von Grostein
+            </p>
+            <p>
+               <lb n="25"/>Geschriben uß eim briefe des datum
+               <lb n="26"/>stat an fritag nach dem ostertag Anno
+               <lb n="27"/>etc. XIII^c und XIII Jare,
+            </p>
+            <pb n="50"/>
+            <cb n="1"/>
+            <p>
+               <lb n="1"/>Anno <choice><abbr>dm̃</abbr><expan>domini</expan></choice> M° CCC° XIII°,
+               <lb/>
+               <lb/>die viere meistere
+               <lb n="2"/>Reymbolt brandeck
+               <lb n="3"/>hug von Schoͤneck
+               <lb n="4"/>Johanns von Múlnheim
+               <lb n="5"/>Claus dútschman
+               <lb/>
+               <lb n="6"/>Claus von Kageneck,
+               <lb n="7"/>Johanns der Junge,
+               <lb n="8"/>Wilhelm Nape,
+               <lb n="9"/>Johanns Viniantz
+               <lb n="10"/>Johanns von Wolffgangesheim
+               <lb n="11"/>Reimbolt Zorn,
+               <lb n="12"/>Walther Spender,
+               <lb n="13"/>Jacob von Barre,
+               <lb n="14"/>Claus Schultheis
+               <lb n="15"/>der Jung <choice><abbr>Walden̉</abbr><expan>Waldener</expan></choice>
+               <lb n="16"/>Johanns Wirich Rittere,
+               <lb n="17"/>Conrat Rihter,
+               <lb n="18"/>Burckart von Múlnheim
+               <lb n="19"/>Burckart von Duntzenheim
+               <lb n="20"/>Claus Schoup
+               <lb n="21"/>Berhtolt zuͦm Riet
+               <lb n="22"/>Clein Kloͤbelouch
+               <lb n="23"/>Wilhelm von Teͣgerfelt
+               <lb n="24"/>Goͤsselin Engelbreht,
+               <lb n="25"/>Johanns Sicke,
+            </p>
+            <p>
+               <lb n="26"/>Geschriben Inn eim brieve des datum
+               <lb n="27"/>stet uff fritag nach Sant Michels tag
+               <lb n="28"/>XIII^c und XIII
+            </p>
+            <cb n="2"/>
+            <p>
+               <lb n="1"/>Anno <choice><abbr>dm̃</abbr><expan>domini</expan></choice> M° CCC XIIII°
+               <lb/>
+               <lb/>die viere
+               <lb/>meistere
+               <lb n="2"/>Her Reimbolt Brandeck,
+               <lb n="3"/>hug von Schoͤneck,
+               <lb n="4"/>her Johanns von Múlnheim
+               <lb n="5"/>her Claus tutschman
+               <lb/>
+               <lb n="6"/>her Niclaus von Kageneck,
+               <lb n="7"/>her Johanns der Jung
+               <lb n="8"/>her Wilhelm Nape
+               <lb n="9"/>her Johanns Viniantz
+               <lb n="10"/>her Johanns von Wolffgangesheim
+               <lb n="11"/>her Reimbolt zorn,
+               <lb n="12"/>her Walther Spender,
+               <lb n="13"/>her Jacob von Barre,
+               <lb n="14"/>her claus Schultheis
+               <lb n="15"/>her Johanns der Jung <choice><abbr>Walden̉</abbr><expan>Waldener</expan></choice>
+               <lb n="16"/>her Johanns Wirich Rittere,
+               <lb n="17"/>Conrat Rihter
+               <lb n="18"/>Burckart von Múlnheim
+               <lb n="19"/>Burckart von Duntzenheim
+               <lb n="20"/>Claus Schoup
+               <lb n="21"/>Berhtolt zuͦm Riet
+               <lb n="22"/>Clein cloͤbelouch
+               <lb n="23"/>Wilhelm von Tegervelt
+               <lb n="24"/>Goͤsselin Engelbreht
+               <lb n="25"/>Johanns Sicke
+            </p>
+            <p>
+               <lb n="26"/>Geschriben uß eim brieve des datum
+               <lb n="27"/>stet uff fritag vor Sant Joͤrgen tag
+               <lb n="28"/>XIII^c und XIIII
+            </p>
+            <pb n="51"/>
+            <cb n="1"/>
+            <p>
+               <lb n="1"/>Anno <choice><abbr>dm̃</abbr><expan>domini</expan></choice> M° CCC° XV°
+               <lb/>
+               <lb/>die vier
+               <lb/>meistere
+               <lb n="2"/>her Johanns Rypelin
+               <lb n="3"/>her Johanns von Wolfgangsheim
+               <lb n="4"/>her Johanns Sickelin der eilter
+               <lb n="5"/>her Conrat Hoͤyer
+               <lb/>
+               <lb n="6"/>her Clauß ott friderich
+               <lb n="7"/>her Johanns Stubenweg
+               <lb n="8"/>her Johanns Panfelin
+               <lb n="9"/>her Hug Schoup
+               <lb n="10"/>her Johanns hunesfelt
+               <lb n="11"/>her Reimbolt brandeck,
+               <lb n="12"/>her Burckart Schultheis
+               <lb n="13"/>her Walther Spender,
+               <lb n="14"/>her Jacob von Barre,
+               <lb n="15"/>her Johanns Closener
+               <lb n="16"/>her Johanns von Schaffoltzheim
+               <lb n="17"/>her Johanns der Jung <choice><abbr>Walden̉</abbr><expan>Waldener</expan></choice>
+               <lb n="18"/>her Reimbolt Suͤsse der <choice><abbr>Jung̉</abbr><expan>Junger</expan></choice>
+               <lb n="19"/>her Fritschman von Duntzenheim
+               <lb n="20"/>her Ruͤllin Ruͦlenderlin <choice><abbr>Ritteᷣ</abbr><expan>Rittere</expan></choice>
+               <lb n="21"/>Claus colin
+               <lb n="22"/>Heintzman abt
+               <lb n="23"/>Burckart von Mùlnheim
+               <lb n="24"/>Johanns Knehtelin
+               <lb n="25"/>Diether Rihter
+            </p>
+            <p>
+               <lb n="26"/><choice><abbr>Geschribñ</abbr><expan>Geschriben</expan></choice> Inn eim brieve des <choice><abbr>datũ</abbr><expan>datum</expan></choice>
+               <lb n="27"/>stet an <choice><abbr>mẽntag</abbr><expan>menntag</expan></choice> noch unser <choice><abbr>frowñ</abbr><expan>frowen</expan></choice>
+               <lb n="28"/>tag der Junger XIII^c XV°
+            </p>
+            <cb n="2"/>
+            <p>
+               <lb n="1"/>Anno <choice><abbr>dm̃</abbr><expan>domini</expan></choice> M CCC XVI°
+               <lb/>
+               <lb/>die vier
+               <lb/><choice><abbr>meisteᷣ</abbr><expan>Meistere</expan></choice>
+               <lb n="2"/>Her Rúdolff Zoller
+               <lb n="3"/>Her Peter Stubenweg
+               <lb n="4"/>Her Wetzel broger
+               <lb n="5"/>Her Johanns von Wolffgangesheim
+               <lb/>
+               <lb n="6"/>Her Hetzel Marx
+               <lb n="7"/>Her Goͤssel von Kageneck
+               <lb n="8"/>Her Hug Schoup
+               <lb n="9"/>Her Johanns panphelin
+               <lb n="10"/>Her Claus Dütscheman
+               <lb n="11"/>Her Johans Viniantz
+               <lb n="12"/>Her Hoͤyer
+               <lb n="13"/>Her Johans von Schaffoltzheim
+               <lb n="14"/>Her Turant
+               <lb n="15"/>Her Ludwig von Bluͦmenowe
+               <lb n="16"/>Her Hug Wirich
+               <lb n="17"/>Her Rembolt Nicol
+               <lb n="18"/>Her Ludwig von Tambach <choice><abbr>Ritt̉</abbr><expan>Rittere</expan></choice>
+               <lb n="19"/>Rúlin Lentzelin
+               <lb n="20"/>Claus Coͤlin
+               <lb n="21"/>Cúne under den Kouffluten
+               <lb n="22"/>Lentzelin
+               <lb n="23"/>Burckart zuͤm Ryet
+               <lb n="24"/>Johanns von <choice><abbr>wint̉tur</abbr><expan>wintertur</expan></choice> der Junge
+               <lb n="25"/>Peter Kornelin
+            </p>
+            <pb n="52"/>
+            <cb n="1"/>
+            <p>
+               <lb n="1"/>Anno <choice><abbr>dm̃</abbr><expan>domini</expan></choice> M CCC XVII°,
+               <lb/>
+               <lb/>die vier
+               <lb/><choice><abbr>Meisteᷣ</abbr><expan>Meistere</expan></choice>
+               <lb n="2"/>Her Wetzel broger
+               <lb n="3"/>Her Johanns Stúbenweg
+               <lb n="4"/>Her Rembolt <choice><abbr>hnᷣ</abbr><expan>hern</expan></choice> Burckartz <choice><abbr>seligẽ</abbr><expan>seligen</expan></choice> sun
+               <lb n="5"/>Her Hug Schoup
+               <lb/>
+               <lb n="6"/>Her Claus von Rymotheim
+               <lb n="7"/>Her Goͤsselin von Kageneck
+               <lb n="8"/>Her Claus Dutscheman
+               <lb n="9"/>Her Hug Richer
+               <lb n="10"/>Her Burckart Schultheis
+               <lb n="11"/>Her Conrat Ripelin
+               <lb n="12"/>Her Johans Zorn
+               <lb n="13"/>Her Johanns von Eckeversheim
+               <lb n="14"/>Her Ruͤlin Ruͦlenderlin
+               <lb n="15"/>Her Johanns Waldener
+               <lb n="16"/>Her Reimbolt Suͤsse der Junge
+               <lb n="17"/>Her Jacob von Barre
+               <lb n="18"/>Her Goͤsselin Engelbrecht
+               <lb n="19"/>Her Fritscheman von Duntzenheim
+               <lb n="20"/>Her Rembolt von Lingelsheim
+               <lb n="21"/>Her Johans von Dunnenheim <choice><abbr>Ritteᷣ</abbr><expan>Rittere</expan></choice>
+               <lb n="22"/>Claus Coͤlin
+               <lb n="23"/>Burckart von Múlnheim
+               <lb n="24"/>Rembolt Hn meiger
+               <lb n="25"/>Peterman von Schoͤneck der Rat
+            </p>
+            <p>
+               <lb n="26"/>Diser Rat ist <choice><abbr>geschr</abbr><expan>geschriben</expan></choice> uß eim briefe des
+               <lb n="27"/><choice><abbr>datũ</abbr><expan>datum</expan></choice> stet uff Zinstag vor sant Gallen
+               <lb n="28"/>tag Anno <choice><abbr>dm̃</abbr><expan>domini</expan></choice> M° CCC° XVII°
+            </p>
+            <cb n="2"/>
+            <p>
+               <lb n="1"/>Anno <choice><abbr>dm̃</abbr><expan>domini</expan></choice> M CCC° XVIII°,
+            </p>
+            <pb n="53"/>
+            <cb n="1"/>
+            <p>
+               <lb n="1"/>Anno <choice><abbr>dm̃</abbr><expan>domini</expan></choice> M CCC° XVIIII°,
+               <lb/>
+               <lb/>die vier <choice><abbr>meisteᷣ</abbr><expan>meistere</expan></choice>
+               <lb n="2"/>Her Gotze von Grostein
+               <lb n="3"/>her Reimbolt Suͤsse der Jung
+               <lb n="4"/>her Walther Spender
+               <lb n="5"/>her Ruͤllin Ruͦlenderlin
+               <lb/>
+               <lb n="6"/>her Reimbolt Stúbenweg der alt
+               <lb n="7"/>her Gosselin Schoup
+               <lb n="8"/>her Claus von Rymuntheim
+               <lb n="9"/>her hetzel marx
+               <lb n="10"/>her Goͤsselin von Kageneck,
+               <lb n="11"/>her hug Schoup
+               <lb n="12"/>her Reimbolt Huͦffelin
+               <lb n="13"/>her Wilhelm Nope,
+               <lb n="14"/>her Burckart <choice><abbr>Schulths̃</abbr><expan>Schultheiss</expan></choice>
+               <lb n="15"/>her Wetzel Broger
+               <lb n="16"/>her Reimbolt Reimboͤldelin
+               <lb n="17"/>her Johanns Sick der alt
+               <lb n="18"/>her Johanns <choice><abbr>Walden̉</abbr><expan>Waldener</expan></choice>
+               <lb n="19"/>her fritschmanvon von Duntzenheim
+               <lb n="20"/>her Gosse engelbreht
+               <lb n="21"/>her Reimbolt von Lingolvisheim
+               <lb n="22"/>her Claus zorn des <choice><abbr>Schulthñ</abbr><expan>Schultheissen</expan></choice> sun
+               <lb n="23"/>her Sigelin Bilgerin der alt Rittere
+               <lb n="24"/>Clein Johanns Sick,
+               <lb n="25"/>Dietrich Rihter,
+            </p>
+            <p>
+               <lb n="26"/>Geschriben Inn eim brieve des <choice><abbr>datũ</abbr><expan>datum</expan></choice>
+               <lb n="27"/>steet uff mentag vor Sant Bartho
+               <lb n="28" rend="hyphen"/>lomeus tag XIII^c und XVIIII°
+            </p>
+            <cb n="2"/>
+            <p>
+               <lb n="1"/>Anno <choice><abbr>dm̃</abbr><expan>domini</expan></choice> M CCC XVIIII°
+               <lb/>
+               <lb/>die drye <choice><abbr>meisteᷣ</abbr><expan>meistere</expan></choice>
+               <lb n="2"/>Her hug von Schoͤneck,
+               <lb n="3"/>Her Reimbolt suͤsse der <choice><abbr>eiltᷣ</abbr><expan>eilter</expan></choice>
+               <lb n="4"/>Her hug Zorn die drye meistere
+               <lb/>
+               <lb n="5"/>her Syfrit von Vegersheim
+               <lb n="6"/>Her Burckart Schoup
+               <lb n="7"/>Her Reimbolt Brandeck,
+               <lb n="8"/>her Johanns hunesfelt
+               <lb n="9"/>her Conrat hoͤyer
+               <lb n="10"/>her Claus <choice><abbr>Schulths̃</abbr><expan>Schultheis</expan></choice>
+               <lb n="11"/>her Claus Zorn
+               <lb n="12"/>her Johanns Sickelin der Jung
+               <lb n="13"/>her Cuͦne Reimboldelin
+               <lb n="14"/>her Johanns von Múlneck
+               <lb n="15"/>her Ruͤllin Loͤselin - Rittere
+               <lb/>
+               <lb n="16"/>Heinrich von Múlnheim
+               <lb n="17"/>Conrat Rihter,
+               <lb n="18"/>Erbeler von Schiltingheim
+               <lb n="19"/>Johanns gruͤnwalt der alt
+               <lb n="20"/>Johanns Swarber
+               <lb n="21"/>Erbe von Lampertheim
+               <lb n="22"/>Marx Wirich
+               <lb n="23"/>Ruͦdolff Stúbenweg
+               <lb n="24"/>Claus von Rymuntheim <choice><abbr>dᷣ</abbr><expan>der</expan></choice> Jung
+            </p>
+            <p>
+               <lb n="25"/>Stet Inn eim briefe des datum wiset
+               <lb n="26"/>uff donrstag vor der grossen vastnaht
+               <lb n="27"/>XIII^c XVIIII°
+            </p>
+            <pb n="54"/>
+            <cb n="1"/>
+            <p>
+               <lb n="1"/>Anno <choice><abbr>dm̃</abbr><expan>domini</expan></choice> M CCC XX°
+            </p>
+            <cb n="2"/>
+            <p>
+               <lb n="1"/>Anno <choice><abbr>dm̃</abbr><expan>domini</expan></choice> M° CCC° XXI
+               <lb/>
+               <lb/>die vier meistere
+               <lb n="2"/>Her Claus Zorn der Jung
+               <lb n="3"/>her Johanns Hunsfelt
+               <lb n="4"/>her Johanns von Tuͦnnenheim
+               <lb n="5"/>her Johanns Sick der Jung
+               <lb/>
+               <lb n="6"/>her hug Rihter,
+               <lb n="7"/>her Burckart Schoup
+               <lb n="8"/>her hug von Schoͤnecke,
+               <lb n="9"/>her Reimbolt Brandeck,
+               <lb n="10"/>her Conrat hoyer
+               <lb n="11"/>her Claus maler,
+               <lb n="12"/>her Walther von Mulnheim
+               <lb n="13"/>her Cuͦne Reimboͤldelin
+               <lb n="14"/>her hetzel marx <choice><abbr>dᷣ</abbr><expan>der</expan></choice> Jung
+               <lb n="15"/>her Claus ottfridrich
+               <lb n="16"/>her Burckart von Nideck Rittere.
+               <lb/>
+               <lb n="17"/>Claus Colin
+               <lb n="18"/>Burckart von Mulnheim
+               <lb n="19"/>Erbeler von Schiltingheim
+               <lb n="20"/>Eberlin Sicke,
+               <lb n="21"/>Clein cloͤbelouch
+               <lb n="22"/>Hanseler von Schoͤneck,
+               <lb n="23"/>Claus von Rymuntheim
+               <lb n="24"/>Uͦlrich Swarber,
+               <lb/>
+               <lb n="25"/>Stet Inn eim brieve des datum
+               <lb n="26"/>wiset uff fritag vor Sant Barnabas
+               <lb n="27"/>tag <choice><abbr>apƚi</abbr><expan>apostoli</expan></choice> XIII^C XXI°,
+            </p>
+            <pb n ="55"/>
+            <cb n="1"/>
+            <p>
+               <lb n="1"/>Anno <choice><abbr>dm̃</abbr><expan>domini</expan></choice> M° CCC° XXI°
+               <lb/>
+               <lb n="2"/>Her hetzel broger
+               <lb n="3"/>her Lentzelin
+               <lb n="4"/>her Gosse Engelbreht
+               <lb n="5"/>her Fritschman von Duntzenheim die vier meistere
+               <lb/>
+               <lb n="6"/>her Goͤsselin von Kageneck
+               <lb n="7"/>her Claus dutschman
+               <lb n="8"/>her hug Schoup
+               <lb n="9"/>her Reimbolt huffelin
+               <lb n="10"/>her Reimbolt suͤsse der eilter
+               <lb n="11"/>her Reimbolt von Achenheim
+               <lb n="12"/>her Reimbolt Reimboldelin
+               <lb n="13"/>her Ruͤllin Ruͦlenderlin
+               <lb n="14"/>her Johanns Ripelin
+               <lb n="15"/>her Johanns zorn
+               <lb n="16"/>her Claus Schultheis
+               <lb n="17"/>her Johanns <choice><abbr>Walden̉</abbr><expan>Waldener</expan></choice>
+               <lb n="18"/>her Claus Zorn des <choice><abbr>schulthñ</abbr><expan>schultheissen</expan></choice> sun
+               <lb n="19"/>her Ruͦdolff von vegersheim
+               <lb n="20"/>her Ruͦdolff von Nydeck
+               <lb n="21"/>her Claus von grostein Rittere
+               <lb/>
+               <lb n="22"/>Conrat Rihter
+               <lb n="23"/>Johanns Swarber
+               <lb n="24"/>Marx Wirich
+               <lb n="25"/>Jacob Lentzelin
+               <lb/>
+               <lb n="26"/><choice><abbr>Predicm̃</abbr><expan>Predictum</expan></choice> <choice><abbr>ꝰsilium</abbr><expan>consilium</expan></choice> Jurauit <choice><abbr>fraᷣ</abbr><expan>feria</expan></choice> sexta post Bartholomei <choice><abbr>Aplĩ</abbr><expan>Apostoli</expan></choice>
+               <lb n="27"/>Anno <choice><abbr>dm̃</abbr><expan>domini</expan></choice> M° CCC° vitosimo primo,
+            </p>
+            <cb n="2"/>
+            <p>
+               <lb n="1"/>hern Hug Zorn <choice><abbr>pᷣmꝰ</abbr><expan>primus</expan></choice>
+               <lb n="2"/>Claus Sick
+               <lb n="3"/><choice><abbr>hnᷣ</abbr><expan>hern</expan></choice> Johanns Sicken den Jungen
+               <lb n="4"/><choice><abbr>hnᷣ</abbr><expan>hern</expan></choice> Conrat Hoyer,
+               <lb/>
+               <lb n="5"/>Johannes von Achenheim
+               <lb n="6"/><choice><abbr>hnᷣ</abbr><expan>hern</expan></choice> Clausen maler,
+               <lb n="7"/><choice><abbr>hnᷣ</abbr><expan>hern</expan></choice> Hug von Schoͤneck <choice><abbr>scd̃ꝰ</abbr><expan>secundus</expan></choice>
+               <lb n="8"/><choice><abbr>hnᷣ</abbr><expan>hern</expan></choice> Burckarten Stubenweg
+               <lb n="9"/><choice><abbr>hnᷣ</abbr><expan>hern</expan></choice> Claus zorn,
+               <lb n="10"/>Berhtolt Swarber
+               <lb n="11"/><choice><abbr>hnᷣ</abbr><expan>hern</expan></choice> Burckarten Reimboldelin
+               <lb n="12"/><choice><abbr>hnᷣ</abbr><expan>hern</expan></choice> micheln Ruͦlenderlin
+               <lb n="13"/><choice><abbr>hnᷣ</abbr><expan>hern</expan></choice> hetzel Marx den Jungen
+               <lb n="14"/><choice><abbr>hnᷣ</abbr><expan>hern</expan></choice> Burckarten Schoup <choice><abbr>qr̃tus</abbr></choice>
+               <lb n="15"/>Johanns cloͤblouch
+               <lb n="16"/><choice><abbr>hnᷣ</abbr><expan>hern</expan></choice> Eberlin von Mulnheim
+               <lb n="17"/>Erbeler von Schiltingheim
+               <lb n="18"/><choice><abbr>hnᷣ</abbr><expan>hern</expan></choice> Clauß ottfridrich
+               <lb n="19"/><choice><abbr>hnᷣ</abbr><expan>hern</expan></choice> Reimbolt Brandeck
+               <lb n="20"/>Johanns Loͤselin
+               <lb n="21"/>Dietrich Rihter,
+               <lb n="22"/><choice><abbr>hnᷣ</abbr><expan>hern</expan></choice> Siglin Bilgerin <choice><abbr>tᷣtius</abbr><expan>tertius</expan></choice>
+               <lb n="23"/>Johanns Wirich
+               <lb n="24"/>Gruͤwalt den Jungen
+            </p>
+            <pb n="56"/>
+            <cb n="1"/>
+            <p>
+               <lb n="1"/>Anno <choice><abbr>dm̃</abbr><expan>domini</expan></choice> M° CCC° XXII°
+               <lb/>
+               <lb n="2"/>Her hug zorn
+               <lb n="3"/>her hug von Schoͤneck,
+               <lb n="4"/>her Bilgerin der eilter
+               <lb n="5"/>her Burckart Schoup die vier meistere
+               <lb/>
+               <lb n="6"/>her Reimbolt brandeck
+               <lb n="7"/>her Conrat hoyer
+               <lb n="8"/>her Claus zorn
+               <lb n="9"/>her Walther von Mulnheim
+               <lb n="10"/>her Claus maler
+               <lb n="11"/>her Johanns Sick der Jung
+               <lb n="12"/>her hetzel marx der Jung
+               <lb n="13"/>her Clauß ottfridrich
+               <lb n="14"/>her Burckart Stubenweg
+               <lb n="15"/>her Burckart Reimboͤldelin
+               <lb n="16"/>her Michel Ruͦlenderlin Rittere
+               <lb/>
+               <lb n="17"/>Erbeler von Schiltingheim
+               <lb n="18"/>Dietrich Rihter
+               <lb n="19"/>Johanns von Achenheim
+               <lb n="20"/>Johanns Cloͤblouch
+               <lb n="21"/>Johanns Loͤselin
+               <lb n="22"/>Berhtolt Swarber
+               <lb n="23"/>Gruͤnwalt <choice><abbr>dᷣ</abbr><expan>der</expan></choice> Jung
+               <lb n="24"/>Johanns Wirich
+               <lb n="25"/>und Claus Sick
+               <lb/>
+               <lb n="26"/>Predictum <choice><abbr>ꝰsilm̃</abbr><expan>consilium</expan></choice> Jurauit <choice><abbr>fraᷣ</abbr><expan>feria</expan></choice> sexta post Bartholomei <choice><abbr>Aplĩ</abbr><expan>Apostoli</expan></choice>
+               <lb n="27"/>Anno <choice><abbr>dm̃</abbr><expan>domini</expan></choice> M° CCC° vitosimo <choice><abbr>scd̃o</abbr><expan>secundo</expan></choice>
+            </p>
+            <cb n="2"/>
+            <p>
+               <lb n="1"/>kose <choice><abbr>hnᷣ</abbr><expan>hern</expan></choice> Reimbolt huffel
+               <lb n="2"/><choice><abbr>hnᷣ</abbr><expan>hern</expan></choice> Ruͤllin Loselin
+               <lb n="3"/><choice><abbr>hnᷣ</abbr><expan>hern</expan></choice> heintzman von Duntzenheim
+               <lb n="4"/><choice><abbr>hnᷣ</abbr><expan>hern</expan></choice> Johanns Schotten,
+               <lb n="5"/>heintzlin Stubenweg
+               <lb n="7"/>Erbe von Lampertheim
+               <lb n="8"/><choice><abbr>hnᷣ</abbr><expan>hern</expan></choice> Reimbolt Suͤssen
+               <lb n="9"/><choice><abbr>hnᷣ</abbr><expan>hern</expan></choice> Johanns Waldener <choice><abbr>tᷣtius</abbr><expan>tertius</expan></choice>
+               <lb n="10"/>Clausen Lentzlin
+               <lb n="11"/>Burckarten von Mulnheim
+               <lb n="12"/><choice><abbr>hnᷣ</abbr><expan>hern</expan></choice> Wolffhelm von hochvelden
+               <lb n="13"/><choice><abbr>hnᷣ</abbr><expan>hern</expan></choice> Cuͦnen Reimboͤldelin <choice><abbr>qr̃tus</abbr></choice>
+               <lb n="14"/><choice><abbr>hnᷣ</abbr><expan>hern</expan></choice> Wetzeln broger
+               <lb n="15"/><choice><abbr>hnᷣ</abbr><expan>hern</expan></choice> Reimbolt Reimboͤldelin
+               <lb n="16"/><choice><abbr>hnᷣ</abbr><expan>hern</expan></choice> Erbelin von Mulnheim
+               <lb n="17"/><choice><abbr>hnᷣ</abbr><expan>hern</expan></choice> goͤsselin Engelbreht
+               <lb n="18"/>Kelwelin vor dem Munster
+               <lb n="19"/><choice><abbr>hnᷣ</abbr><expan>hern</expan></choice> Reimbolten von Achenheim
+               <lb n="20"/><choice><abbr>hnᷣ</abbr><expan>hern</expan></choice> Burckart Schultheis <choice><abbr>pᷣmꝰ</abbr><expan>primus</expan></choice> <choice><abbr>mag̃r magister
+               <lb n="21"/><choice><abbr>hnᷣ</abbr><expan>hern</expan></choice> Claus von grostein
+               <lb n="22"/>Ruͦlman Swarber
+               <lb n="23"/>Jacob Lentzel
+               <lb n="24"/>marx Wirich
+               <lb n="25"/><choice><abbr>hnᷣ</abbr><expan>hern</expan></choice> Johanssen Sicken den <choice><abbr>eiltnᷣ</abbr><expan>eiltern</expan></choice> <choice><abbr>scd̃ꝰ</abbr><expan>secundus</expan></choice>.
+            </p>
+            <pb n="57"/>
+            <cb n="1"/>
+            <p>
+               <lb n="1"/>Anno <choice><abbr>dm̃</abbr><expan>domini</expan></choice> M° CCC° XXIII°
+               <lb/>
+               <lb/>die vier <choice><abbr>meisteᷣ</abbr><expan>meistere</expan></choice>
+               <lb n="2"/>Her Burckart <choice><abbr>Schulths̃</abbr><expan>Schultheis</expan></choice>
+               <lb n="3"/>her Johanns Sicke der eilter,
+               <lb n="4"/>her Johanns <choice><abbr>Walden̉</abbr><expan>Waldener</expan></choice>
+               <lb n="5"/>her Cuͦne Reimboldelin
+               <lb/>
+               <lb n="6"/>her Reimbolt huffel
+               <lb n="7"/>her Wetzel Broger,
+               <lb n="8"/>her Johanns Schotte,
+               <lb n="9"/>her Reimbolt von Achenheim
+               <lb n="10"/>her Reimbolt Suͤsse
+               <lb n="11"/>her Fritschman von Duntzenheim
+               <lb n="12"/>her Gosse Engelbreht
+               <lb n="13"/>her Ruͤllin Loͤselin
+               <lb n="14"/>her Claus von grostein
+               <lb n="15"/>her Woͤlffelin von Hochfelden
+               <lb n="16"/>her Eberlin von Mulnheim
+               <lb n="17"/>her Reimbolt Reimboldelin <choice><abbr>Ritteᷣ</abbr><expan>Rittere</expan></choice>
+               <lb/>
+               <lb n="18"/>Burckart von Mulnheim
+               <lb n="19"/>Erbe von Lampertheim
+               <lb n="20"/>Ruͣlman Swarber,
+               <lb n="21"/>Marx Wirich
+               <lb n="22"/>Jacob lentzel
+               <lb n="23"/>Hentzlin Stubenweg
+               <lb n="24"/>Kelbelin
+               <lb n="25"/>Claus lentzel,
+               <lb/>
+               <lb n="26"/>Geschriben uß einem brieve des datum
+               <lb n="27"/>stet uff fritag nach Adolphi Anno
+               <lb n="28"/><choice><abbr>dm̃</abbr><expan>domini</expan></choice> M° CCC° XXIII°,
+            </p>
+            <cb n="2"/>
+            <p>
+               <lb n ="1"/>Anno <choice><abbr>dm̃</abbr><expan>domini</expan></choice> M° CCC° XXIIII°
+               <lb/>die vier <choice><abbr>Meisteᷣ</abbr><expan>Meistere</expan></choice>
+               <lb n="2"/>Her Claus Maler
+               <lb n="3"/>Her Ruͤdolff von vegersheim
+               <lb n="4"/>Heinrich von Mùlnheim
+               <lb n="5"/>Her Ruͤdolff von Nideck
+               <lb/>
+               <lb n="6"/>Her Burckart Schoup
+               <lb n="7"/>Her Walther von Mùlnheim
+               <lb n="8"/>Her Reimbolt brandecke
+               <lb n="9"/>Her Conrat Hoͤyer
+               <lb n="10"/>Her Johanns Zorn
+               <lb n="11"/>Her Reimbolt Reimboͤldelin
+               <lb n="12"/>Her Sygelin bilgerin
+               <lb n="13"/>Her Claus Otfriderich
+               <lb n="14"/>Her Hetzel Marx der Junge
+               <lb n="15"/>Her Michel Rùlenderlin
+               <lb n="16"/>Her Claus Lappe Rittere
+               <lb/>
+               <lb n="17"/>Claus von Rùmelnheim
+               <lb n="18"/>Conrat Richter
+               <lb n="19"/>Erbe von Schiltingheim
+               <lb n="20"/>Hannseler von Schoneck
+               <lb n="21"/>Johanns Klobelouch
+               <lb n="22"/>Bechtolt Swarber
+               <lb n="23"/>Johanns Gruͤnewalt
+               <lb n="24"/>Wilhelm Dantz
+               <lb n="25"/>Hug von wintertúr Zuͣm Engel
+               <lb/>
+               <lb n="26"/>Geschriben uß eim briefe des <choice><abbr>datũ</abbr><expan>datum</expan></choice> stet
+               <lb n="27"/>uff Mendag nach unser frowen tag der
+               <lb n="28"/>liechtmesse Anno <choice><abbr>dm̃</abbr><expan>domini</expan></choice> XIII^C XXV
+            </p>
+            <pb n="58"/>
+            <cb n="1"/>
+            <p>
+               <lb n="1"/>Anno <choice><abbr>dm̃</abbr><expan>domini</expan></choice> M° CCC° XXV.
+               <lb>
+               <lb/>die vier
+               <lb/><choice><abbr>Meisteᷣ</abbr><expan>Meistere</expan></choice>
+               <lb n="1"/>Her Claus Zorn der Elter
+               <lb n="2"/>her Johanns Swarber
+               <lb n="3"/>her Burckart von Múlnheim
+               <lb n="4"/>her Claus von Grosstein
+               <lb/>
+               <lb n="5"/>her Goͤsselin von Kagenecke
+               <lb n="6"/>her Hug Schoup
+               <lb n="7"/>her Syfrit von Vegersheim
+               <lb n="8"/>her Wetzel proger
+               <lb n="9"/>her Claus Schultheis
+               <lb n="10"/>her Ruͤlin Ruͤlenderlin
+               <lb n="11"/>her Sickelin der Junge
+               <lb n="12"/>her Eberlin von Múlnheim
+               <lb n="13"/>her Bilgerin der Junge
+               <lb n="14"/>her Johanns Marx
+               <lb n="15"/>her Cuͦne von Rumoltheim
+               <lb n="16"/>Her Peter von Duntzenheim Rittere
+               <lb/>
+               <lb n="17"/>Johanns Loͤselin
+               <lb n="18"/>Heinrich Stùbenweg
+               <lb n="19"/>Jacob Lentzelin
+               <lb n="20"/>Johanns Wyrich
+               <lb n="21"/>Cuͦntz von <choice><abbr>wint̉túr</abbr><expan>wintertúr</expan></choice>
+               <lb n="22"/>Gosse Kurnagel
+               <lb n="23"/>Wilhelm Nape
+               <lb n="24"/>Hesse Erlin
+               <lb/>
+               <lb n="25"/>Geschriben Inn eim brieve des datum
+               <lb n="26"/>stet uff nehsten Samstag vor der
+               <lb n="27"/>Zweyer Heiligen tag Tiburti und
+               <lb n="28"/>Valleriani Anno XIII^C XXVI
+            </p>
+            <cb n="2"/>
+            <p>
+               <lb n="1"/>Anno <choice><abbr>dm̃</abbr><expan>domini</expan></choice> M° CCC  XXVI
+               <lb/>
+               <lb n="2"/>her Gosselin Schoup
+               <lb n="3"/>her Gosselin Engelbreht
+               <lb n="4"/>her hetzel marx der Junge
+               <lb n="5"/>her Clauß ott fridrich die vier <choice><abbr>meisteᷣ</abbr><expan>meistere</expan></choice>
+               <lb/>
+               <lb n="6"/>her Burckart Schoup
+               <lb n="7"/>her Reimbolt brandeck,
+               <lb n="8"/>her Conrat Hoͤyer
+               <lb n="9"/>her hug zorn
+               <lb n="10"/>her Sigelin Bilgerin
+               <lb n="11"/>her Johanns Sick der alt
+               <lb n="12"/>her Ruͦllin Loͤselin
+               <lb n="13"/>her Burckart Reimboͤldelin
+               <lb n="14"/>her Burckart Stùbenweg
+               <lb n="15"/>her Claus lappe
+               <lb n="16"/>her Albreht Ruͦlenderlin Rittere
+               <lb/>
+               <lb n="17"/>Erbe von Schiltingheim
+               <lb n="18"/>Hanseler von Schoͤneck,
+               <lb n="19"/>Ruͦlman Swarber
+               <lb n="20"/>hug von Wintertur
+               <lb n="21"/>Claus zoller
+               <lb n="22"/>Peterman Ripelin
+               <lb n="23"/>hesse von Tanbach
+               <lb n="24"/>Siglin buckeler
+               <lb n="25"/>hug Wiß broͤtelin
+               <lb/>
+               <lb n="26"/><choice><abbr>Predictm̃</abbr><expan>Predictum</expan></choice> <choice><abbr>consiliũ</abbr><expan>consilium</expan></choice> Jurauit
+               <lb n="27"/>Anno <choice><abbr>dm̃</abbr><expan>domini</expan></choice> <choice><abbr>Millim̃</abbr><expan>Millesimo</expan></choice>
+            </p>
+            <pb n="59"/>
+            <cb ="1"/>
+            <p>
+               <lb n="1"/>Johanns Grinwalt
+               <lb n="2"/>Jacob lentzel
+               <lb n="3"/><choice><abbr>hnᷣ</abbr><expan>hern</expan></choice> Johanns marxen
+               <lb n="4"/>Clausen swarber,
+               <lb n="5"/><choice><abbr>hnᷣ</abbr><expan>hern</expan></choice> Wetzel broger
+               <lb n="6"/><choice><abbr>hnᷣ</abbr><expan>hern</expan></choice> Ruͦdolff Stùbenweg
+               <lb n="7"/><choice><abbr>hnᷣ</abbr><expan>hern</expan></choice> Reimbolt Reimboͤldelin den alten
+               <lb n="8"/><choice><abbr>hnᷣ</abbr><expan>hern</expan></choice> Reimbolt huffelin den alten <choice><abbr>pᷣmꝰ</abbr><expan>primus</expan></choice>
+               <lb n="9"/><choice><abbr>hnᷣ</abbr><expan>hern</expan></choice> Johanns <choice><sic>hubesfelt</sic><corr>hundesfelt</corr></choice>
+               <lb n="10"/><choice><abbr>hnᷣ</abbr><expan>hern</expan></choice> Johanns Sicken den Jungen <choice><abbr>tᷣtius</abbr><expan>tertius</expan></choice>
+               <lb n="11"/><choice><abbr>hnᷣ</abbr><expan>hern</expan></choice> Fritschman von duntzenheim
+               <lb n="12"/><choice><abbr>hnᷣ</abbr><expan>hern</expan></choice> Gossen Schoup
+               <lb n="13"/><choice><abbr>hnᷣ</abbr><expan>hern</expan></choice> Johanns Jungen
+               <lb n="14"/>Peterman von Schoͤneck,
+               <lb n="15"/><choice><abbr>hnᷣ</abbr><expan>hern</expan></choice> Clausen von grostein
+               <lb n="16"/>Sigelin von Mulnheim
+               <lb n="17"/><choice><abbr>hnᷣ</abbr><expan>hern</expan></choice> Johannsen Zorn,
+               <lb n="18"/>Bilgerin den Jungen <choice><abbr>scd̃s</abbr><expan>secundus</expan></choice>
+               <lb n="19"/><choice><abbr>hnᷣ</abbr><expan>hern</expan></choice> Claus Schultheis
+               <lb n="20"/>Otte Kusen
+               <lb n="21"/>Cuͦntzen von Wintertur
+               <lb n="22"/><choice><abbr>hnᷣ</abbr><expan>hern</expan></choice> Claus maler,
+               <lb n="23"/><choice><abbr>hnᷣ</abbr><expan>hern</expan></choice> Johanns <choice><abbr>Walden̉</abbr><expan>Waldener</expan></choice>
+               <lb n="24"/><choice><abbr>hnᷣ</abbr><expan>hern</expan></choice> Rullin Ruͣlenderlin <choice><abbr>qr̃tus</abbr><expan>quartus</expan></choice>
+               <lb/>
+               <lb n="25"/>crastino Exaltationis <choice><abbr>st̃e</abbr><expan>sancte</expan></choice> <choice><abbr>trinꝷ</abbr><expan>trinitate</expan></choice>
+               <lb n="26"/>CCC° vitesimo sexto,
+            </p>
+            <cb n="2"/>
+            <p>
+               <lb n="1"/>Anno <choice><abbr>dm̃</abbr><expan>domini</expan></choice> M° CCC XXVII
+               <lb/>
+               <lb/>die vier <choice><abbr>meisteᷣ</abbr><expan>meistere</expan></choice>
+               <lb n="2"/>Her Reimbolt huffelin der alt
+               <lb n="3"/>her Bilgerin der Jung
+               <lb n="4"/>her Sickelin der Jung
+               <lb n="5"/>her Ruͤllin Ruͦlenderlin
+               <lb/>
+               <lb n="6"/>her Johanns hundßfelt
+               <lb n="7"/>her Wetzel broger
+               <lb n="8"/>her Claus maler
+               <lb n="9"/>her Reimbolt Reimboldelin <choice><abbr>dᷣ</abbr><expan>der</expan></choice> alt
+               <lb n="10"/>her Johanns <choice><abbr>Walden̉</abbr><expan>Waldener</expan></choice>
+               <lb n="11"/>her Claus <choice><abbr>Schulths̃</abbr><expan>Schultheis</expan></choice>
+               <lb n="12"/>her Johanns Zorn
+               <lb n="13"/>her Fritschman von duntzenheim
+               <lb n="14"/>her Ruͣdolff Stubenweg
+               <lb n="15"/>her Claus von Grostein
+               <lb n="16"/>her Johanns marx
+               <lb n="17"/>her Gosse Schoup
+               <lb n="18"/>her Johanns Jung Rittere,
+               <lb/>
+               <lb n="19"/>Peterman von Schoͤneck,
+               <lb n="20"/>Johanns Gruͤnwalt
+               <lb n="21"/>Jacob Lentzel
+               <lb n="22"/>Conrat von Wintertur
+               <lb n="23"/>Otte Kuse
+               <lb n="24"/>Siglin von Mùlnheim
+               <lb n="25"/>Claus Swarber,
+               <lb/>
+               <lb n="26"/>Geschriben uß eim Brieve, des datum stat
+               <lb n="27"/>an fritag vor <choice><abbr>ꝑpetue</abbr><expan>perpetue</expan></choice> et felicitatis Anno
+               <lb n="28"/>XIII^C und XXVIII°,
+            </p>
+            <pb n="60"/>
+            <cb n="1"/>
+            <p>
+               <lb n="1"/>Anno <choice><abbr>dm̃</abbr><expan>domini</expan></choice> M° CCC° XVIII°
+               <lb/>
+               <lb/>die vier <choice><abbr>Meisteᷣ</abbr><expan>Meistere</expan></choice>
+               <lb n="2"/>Her Hanseler von Schoͤnecke
+               <lb n="3"/>her Michel Ruͦlenderlin
+               <lb n="4"/>her Rúlin Loͤselin
+               <lb n="5"/>her Burckart Reymboͤldelin
+               <lb/>
+               <lb n="6"/>her Burckart Schoup
+               <lb n="7"/>her Johanns Schott
+               <lb n="8"/>her Reymbolt von Achenheim
+               <lb n="9"/>her Walther Spender
+               <lb n="10"/>her <choice><abbr>Johañs</abbr><expan>Johanns</expan></choice> Sick der alt,
+               <lb n="11"/>her Hetzel Marx
+               <lb n="12"/>her Goß Engelbreht
+               <lb n="13"/>her Claus Lappe
+               <lb n="14"/>her Walther von Múlnheim der Junge
+               <lb n="15"/>her Burckelin von Múlnheim Ritter
+               <lb/>
+               <lb n="16"/>Erbe von Schiltingheim
+               <lb n="17"/><choice><abbr>Johañs</abbr><expan>Johanns</expan></choice> Clobelouch
+               <lb n="18"/>Hug von Blumenowe
+               <lb n="19"/>Erbe von Lampertheim
+               <lb n="20"/>Hug von Wintertur
+               <lb n="21"/>Sigelin Schilt
+               <lb n="22"/>Reÿmbolt Suͤsse der alt,
+               <lb n="23"/>Reÿmbolt Danris,
+               <lb n="24"/>Peter Swarber
+               <lb n="25"/>Hug otte friderich
+               <lb/>
+               <lb n="26"/>Diser Rat ist geschriben uß eym briefe des
+               <lb n="27"/><choice><abbr>datũ</abbr><expan>datum</expan></choice> stet, Valentini XIII^C XXVIIII
+            </p>
+            <cb n="2"/>
+            <p>
+               <lb n="1"/>Anno <choice><abbr>dm̃</abbr><expan>domini</expan></choice> M° CCC° XXVIIII°
+               <lb/>
+               <lb/>die vier <choice><abbr>meisteᷣ</abbr><expan>meistere</expan></choice>
+               <lb n="2"/>Her Claus Maler
+               <lb n="3"/>her Ruͦdolff Stúbenweg
+               <lb n="4"/>her Eberlin von Múlnheim
+               <lb n="5"/>her Behtolt Swarber
+            </p>
+            <pb n="61"/>
+            <cb n="1"/>
+            <p>
+               <lb n="1"/>Anno <choice><abbr>dm̃</abbr><expan>domini</expan></choice> M° CCC° XXX°,
+               <lb/>
+               <lb n="2"/>Her Johanns Loͤselin
+               <lb n="3"/>her Claus zorn dem man spricht der lappe,
+               <lb n="4"/>her Johanns zorn
+               <lb n="5"/>her Albreht Ruͦlenderlin die viere meistere
+               <lb/>
+               <lb n="6"/>her Burckart Schoub
+               <lb n="7"/>her Reimbolt hùffelin der alt
+               <lb n="8"/>her Ruͦdolff von vegersheim
+               <lb n="9"/>her Johanns Sicke der Jung
+               <lb n="10"/>her Gosse Engelbreht
+               <lb n="11"/>her Burckart Reimboͤldelin
+               <lb n="12"/>her Burckart Stùbenweg
+               <lb n="13"/>her Peterman von Duntzenheim
+               <lb n="14"/>her Walther von mùlnheim
+               <lb n="15"/>her Gosse Schoup
+               <lb n="16"/>her Clein Johanns marx
+               <lb n="17"/>her Gerhart Schoup Rittere
+               <lb/>
+               <lb n="18"/>Johanns Kloͤbelouch
+               <lb n="19"/>Hanseler von Schoͤneck,
+               <lb n="20"/>Ruͦlman Swarber
+               <lb n="21"/>Johanns gruͤnwalt
+               <lb n="22"/>hug von Wintertur
+               <lb n="23"/>Reimbolt tanris
+               <lb n="24"/>Johanns panfelin
+               <lb n="25"/>Johanns Ripelin
+            </p>
+            <cb n="2"/>
+            <p>
+               <lb n="1"/><choice><abbr>hnᷣ</abbr><expan>hern</expan></choice> Pilgerin
+               <lb n="2"/><choice><abbr>hnᷣ</abbr><expan>hern</expan></choice> Claus ottfridrich
+               <lb n="3"/>Reimbolt Suͤssen den alten
+               <lb n="4"/><choice><abbr>hnᷣ</abbr><expan>hern</expan></choice> Ruͤllin Ruͦlenderlin <choice><abbr>magr̃</abbr><expan>magister</expan></choice> <choice><abbr>qr̃tus</abbr><expan>quartus</expan></choice>
+               <lb n="5"/>Peter Swarber,
+               <lb n="6"/><choice><abbr>hnᷣ</abbr><expan>hern</expan></choice> Ruͦdolff Stùbenweg
+               <lb n="7"/>Ruͦdiger Schilt
+               <lb n="8"/><choice><abbr>hnᷣ</abbr><expan>hern</expan></choice> hug <choice><sic>Scoup</sic><corr>Schoup</corr></choice>
+               <lb n="9"/>heintzlin von Sarburg
+               <lb n="10"/><choice><abbr>hnᷣ</abbr><expan>hern</expan></choice> Reimbolt Reimboldelin den alten,
+               <lb n="11"/>Erbeler von Schiltingheim
+               <lb n="12"/>Cuͦntzen von Wintertur
+               <lb n="13"/><choice><abbr>hnᷣ</abbr><expan>hern</expan></choice> Johanns <choice><abbr>Walden̉</abbr><expan>Waldener</expan></choice>
+               <lb n="14"/>Herman Wirich
+               <lb n="15"/><choice><abbr>hnᷣ</abbr><expan>hern</expan></choice> gros hanns marx <choice><abbr>magr̃</abbr><expan>magister</expan></choice> <choice><abbr>scd̃ꝰ</abbr><expan>secundus</expan></choice>
+               <lb n="16"/><choice><abbr>hnᷣ</abbr><expan>hern</expan></choice> Reimbolt Hiltebrant
+               <lb n="17"/><choice><abbr>hnᷣ</abbr><expan>hern</expan></choice> Wetzel Proger <choice><abbr>primꝰ</abbr><expan>primus</expan></choice> <choice><abbr>magr̃</abbr><expan>magister</expan></choice>
+               <lb n="18"/><choice><abbr>hnᷣ</abbr><expan>hern</expan></choice> heinrich von grostein dem man spricht der Roͤmer
+               <lb n="19"/><choice><abbr>hnᷣ</abbr><expan>hern</expan></choice> Claus Jung zorn
+               <lb n="20"/><choice><abbr>hnᷣ</abbr><expan>hern</expan></choice> Johanns Sicken den Jungen <choice><abbr>tᷣtius</abbr><expan>tertius</expan></choice> <choice><abbr>magr̃</abbr><expan>magister</expan></choice>
+               <lb n="21"/>Hug Wißbroͤtelin
+               <lb n="22"/><choice><abbr>hnᷣ</abbr><expan>hern</expan></choice> Claus maler
+               <lb n="23"/>Otte Kusen
+               <lb n="24"/>Johanns Kelbelin
+               <lb/>
+               <lb n="25"/><choice><abbr>Predictm̃</abbr><expan>Predictum</expan></choice> <choice><abbr>ꝰsilim̃</abbr><expan>consilium</expan></choice> Jurauit die Jeronimi <choice><abbr>pᷣspriᷣ</abbr><expan>prespiteri</expan></choice> Anno <choice><abbr>dm̃</abbr><expan>domini</expan></choice>
+               <lb n="26"/>M° . CCC° . XXX°,
+            </p>
+            <pb n="62"/>
+            <cb n="1"/>
+            <p>
+               <lb n="1"/>Anno <choice><abbr>dm̃</abbr><expan>domini</expan></choice> M° CCC° XXXI°
+               <lb/>
+               <lb n="2"/>Die vier <choice><abbr>Meisteᷣ</abbr><expan>Meistere</expan></choice>
+               <lb n="3"/>Her Wetzel Broger
+               <lb n="4"/>her <choice><abbr>Joßhañs</abbr><expan>Joßhanns</expan><corr></corr>Johanns</choice> Marx
+               <lb n="5"/>her <choice><abbr>Johañs</abbr><expan>Johanns</expan></choice> Sick der Junge,
+               <lb/>
+               <lb n="6"/>her Ruͤlin Ruͤlenderlin
+               <lb n="7"/>her hug Schoup
+               <lb n="8"/>her Claus Maler
+               <lb n="9"/>her Reymbolt Reymboͤldelin der alt
+               <lb n="10"/>her Johanns Waldener
+               <lb n="11"/>her Ruͤdolff Stubenweg
+               <lb n="12"/>her Pilgerin
+               <lb n="13"/>her Claus ottfriderich
+               <lb n="14"/>her Claus Jungzorn
+               <lb n="15"/>her heinrich Romer von Grostein
+               <lb n="16"/>her Reymbolt hiltebrant . Rittere
+               <lb/>
+               <lb n="17"/>Erbeler von Schiltingheim
+               <lb n="18"/>Sigelin Schilt
+               <lb n="19"/>Cüntz von wintertür
+               <lb n="20"/>Reymbolt Süße der alt
+               <lb n="21"/>Peter Swarber
+               <lb n="22"/>Johanns Kelbelin
+               <lb n="23"/>Ott Kuse
+               <lb n="24"/>Hug wißbroͤtelin
+               <lb n="25"/>herman wirich
+               <lb n="26"/>hetzelin von Sarburg der Rat
+               <lb/>
+               <lb n="27"/>Diser Rat ist geschriben uß eim briefe des <choice><abbr>datũ</abbr><expan>datum</expan></choice> stot
+               <lb n="28"/>an der zweyer zwoͤlff botten obend Symonis et Jude
+               <lb n="29"/>In dem Jore do man zalt von gottes geburt drùtzehen
+               <lb n="30"/>hundert Jor und Eins und drissig Jor
+            </p>
+            <cb n="2"/>
+            <pb n="63"/>
+            <cb n="1"/>
+            <p>
+               <lb n="1"/>Anno <choice><abbr>dm̃</abbr><expan>domini</expan></choice> M° CCC XXXII°,
+               <lb/>
+               <lb n="2"/>Her Rülman Swarber
+               <lb n="3"/>Her Ruͦdolff Judenbreter
+               <lb n="4"/>her Hanseler von Schoͤneck
+               <lb n="5"/>her <choice><abbr>Johañs</abbr><expan>Johanns</expan></choice> Clobelouch der alt
+               <lb/>
+               <lb n="6"/>Wolffhelm von Bräge
+               <lb n="7"/>Wernher Kuse
+               <lb n="8"/>Johanns von Roßheim
+               <lb n="9"/>Pauls mosunge
+               <lb n="10"/>Conrat gúrteler
+               <lb n="11"/>Claus zü der schùren
+               <lb n="12"/>Jacob zü der hellen
+               <lb n="13"/>fritsch von heiligenstein
+               <lb n="14"/>Claus Rebestock
+               <lb n="15"/>Bechtolt zü dem Riet
+               <lb n="16"/>Claus Swan
+               <lb n="17"/>Reymbolt zü dem trùbel
+               <lb n="18"/>Claus von wintertur
+               <lb n="19"/>Burckart twinger
+               <lb n="20"/>Henselin knobelouch zü dem wagener
+               <lb n="21"/>Goß Sturm
+               <lb n="22"/>Cüntz pfaffenlapp
+               <lb n="23"/>henselin voͤltsch
+               <lb n="24"/>Bechtolt mansse
+               <lb n="25"/>Walther Klobloch
+               <lb n="26"/>Johanns buman
+               <lb/>
+               <lb n="27"/>von den kremer Claus mosunge
+               <lb n="28"/>von den brotbeckern Burckart biller
+               <lb n="29"/>von den Metzigern Wilhelm der metziger
+               <lb n="30"/><choice><abbr>Iꝷ</abbr><expan>Item</expan></choice> von den kùrsenern Ruͤlin der kùrsener
+               <lb n="31"/>von den Saltzmütern Jeckelin der saltzmüter
+               <lb n="32"/>von den wolslahern Ottman von truchterßheim
+               <lb n="33"/>von den Snydern Claus meister hugës sün
+               <lb n="34"/>von den zymberlúten heinrich zymberlin
+               <lb n="36"/>von den <choice><sic>Steinmetzeln</sic><corr>Steinmetzen</corr></choice> meister <choice><abbr>Joh̃s</abbr><expan>Johanns</expan></choice> winlin
+               <lb n="37"/>von den kuͤfern Gerlin der kuͤffer
+               <lb n="38"/>von den Gartenern philips Wolffhelm
+               <lb n="39"/>von den Gerwern Johanns cleinherre
+               <lb n="40"/>von den Smyden Johanns Sporer
+               <lb n="41"/>von den Schüchsútern Cùnrat <choice><abbr>detwil̃r</abbr><expan>detwiller</expan></choice>
+               <lb n="42"/>von den vasziehern walther der vaszieher
+               <lb n="43"/>von den schiltern ulrich baldeße
+               <lb n="44"/>von den Múllern Anbreht zoller
+               <lb n="45"/>von den woͤbern Eberlin Peiger
+               <lb n="46"/>von den Scherern und badern Conrat züm úberhange
+               <lb n="47"/>von den Schiffzymberlúten Ebelin von Munoltzheim
+               <cb n="2"/>
+               <lb n="1"/>von den Schifflúten Eberlin nelßheim
+               <lb n="2"/>von den winruͤffern und win messer ysinger
+               <lb n="3"/>von den kornkoͤiffern peter lemblin
+               <lb n="4"/>von den vischern Jacob zessolf
+               <lb n="5"/>von den winlúten Johans Reuting der Rat
+               <lb/>
+               <lb n="6"/>Diser Rat ist geschriben uß eim briefe des datum
+               <lb n="7"/>stoͤt an sant Mathis obend des zwoͤlffbotten zu
+               <lb n="8"/>dem Jor do man zalt von gotts geburt xiij^C Jor
+               <lb n="9"/>und dru und drissig Jor
+            </p>
+            <pb n="64"/>
+            <p>
+               <lb n="1"/>Anno <choice><abbr>dm̃</abbr><expan>domini</expan></choice> M° ccc° xxxiij°
+               <lb/>
+               <lb/>die zwene <choice><abbr>meisteᷣ</abbr><expan>meistere</expan></choice>
+               <lb n="1"/>Berhtolt Swarber
+               <lb n="2"/>Ruͦdolff Judenbreͣter
+               <lb n="3"/>Burckart twinger der Ammeister,
+               <lb n="4"/>Stont Inn eim brieve der da wiset das die
+               <lb n="5"/>zwene meistere iren lebtagen meistere sin
+               <lb n="6"/>soͤllent, und der Ammeister ouch sinen <choice><abbr>lebtagꝭ</abbr><expan>lebtagen</expan></choice>
+               <lb n="7"/><choice><abbr>blibñ</abbr><expan>bliben</expan></choice>, und weͣres das ir einre abegienge, So
+               <lb n="8"/>sollent die <choice><abbr>andnᷣ</abbr><expan>andern</expan></choice> zwene meistere und die XXV
+               <lb n="9"/>von den antwercken Im Rate sind, und die xiiij
+               <lb n="10"/>die von den burgern Im Rate sind einen <choice><abbr>andnᷣ</abbr><expan>andern</expan></choice>
+               <lb n="11"/>kiesen und hant obe xxx Rittern und xiiij
+               <lb n="12"/>knehte den brieff versigelt mitsampt lantgraf
+               <lb n="13"/>uͣlrichs zu Eilsas, ouch der burgere von mentz
+               <lb n="14"/>Wurmsse, Spire, Basel, Friburg und der Statt
+               <lb n="15"/>Straßburg groß Ingesigel, und stet das datum
+               <lb n="16"/>uff den ersten tag, nach Sant gallen tag, Nach
+               <lb n="17"/>Cristi geburte xiij^C xxxiiij°,
+            </p>
+            <cb n="2"/>
+            <pb n="65"/>
+            <cb n="1"/>
+            <p>
+               <lb n="1"/>Anno <choice><abbr>dm̃</abbr><expan>domini</expan></choice> M° ccc° xxxiiij°,
+               <lb/>
+               <lb/>die zwene <choice><abbr>meisteᷣ</abbr><expan>meistere</expan></choice>
+               <lb n="2"/>Ruͦdolff Judenbretter
+               <lb n="3"/>her Berhtolt swarber <choice><abbr>Rittᷣ</abbr><expan>Ritter</expan></choice>
+               <lb/>
+               <lb n="4"/>Burckart Twinger der Ammeister
+               <lb/>
+               <lb n="5"/>hanseler von Schoͤneck,
+               <lb n="6"/>Johanns von Rosheim
+               <lb n="7"/>Claus Kloͤbelouch zuͦ Ryneck,
+               <lb n="8"/>Fritschman von heilgenstein
+               <lb n="9"/>Reimbolt zuͦm Truͦbel
+               <lb n="10"/>Johanns voͤltsche
+               <lb n="11"/>Gosse sturm
+               <lb n="12"/>Walther Kloͤblouch
+               <lb n="13"/>Berhtolt manße
+               <lb n="14"/>Erbe gensefuͦs
+               <lb n="15"/>Peter Rebstock,
+               <lb n="16"/>Cuͦntz pfaffenlapp
+               <lb n="17"/>Otte kuse
+               <lb n="18"/>Wilhelm tantz
+               <lb n="19"/>Berhtolt zuͦm Riet
+               <lb n="20"/>der alt Berlin
+               <lb n="21"/>laulin von wintertur
+               <lb n="22"/>hug macher,
+               <lb n="23"/>Cuͤntzlin gùrteler,
+               <lb n="24"/>hug nepelin
+               <lb n="25"/>hensel pauwlin
+               <lb n="26"/>Bertschin vischer
+               <lb/>
+               <lb n="27"/>· von den Cremern - Spoͤrlin
+               <lb n="28"/>· von den Brotbeckern - Burckart Buͦller
+               <lb n="29"/>· von den metzigern - <choice><abbr>hrᷣ</abbr><expan>her</expan></choice> wilhelm <choice><abbr>dᷣ</abbr><expan>der</expan></choice> <choice><abbr>metzigᷣ</abbr><expan>metziger</expan></choice>
+               <lb n="30"/>· von den winlúten - Ebelin zuͦ der Kene
+               <lb n="31"/>· von den kúrsenern - Johanns Richwin
+               <lb n="32"/>· von den wolslahern - voltz von vendenheim
+               <lb n="33"/>· von den schifflúten - Burckart <choice><abbr>hanwiƚr</abbr><expan>hanwiller</expan></choice>
+               <lb n="34"/>· von den Schnydern - Johanns Eckendorff
+               <lb n="35"/>· von den Schmyden - Claus von <choice><abbr>lingolvish̃</abbr><expan>lingolvisheim</expan></choice>
+               <lb n="36"/>· von den gartenern - Jacob Karricher
+               <lb n="37"/>· von den Schuͦchsútern - otte von Kentzingen
+               <lb n="38"/>· von den Wobern - heintz fleischtúre
+               <lb n="39"/>· Von den Schiltern - Eberlin von <choice><abbr>geispoltzh̃</abbr><expan>geispoltzheim</expan></choice>
+               <lb n="40"/>· Von den vischern - Rettwin
+               <lb n="41"/>· Von den gerwern - Johanns sesenheim
+               <lb n="42"/>· Von den Steinmetzen und Murern meyster
+               <lb n="43"/>, Johanns Winlin
+               <lb n="44"/>· Von den Kuͤffern meister gerlin
+               <lb n="45"/>· Von den zimerlúten heinrech zimerlin
+               <lb n="46"/>· Von den <choice><abbr>kornkouͤffnᷣ</abbr><expan>kornkouͤffern</expan></choice> Steymar
+               <cb n="2"/>
+               <lb n="1"/>· Von den <choice><abbr>Winruͤffnᷣ</abbr><expan>Winruͤffern</expan></choice> und <choice><abbr>Winmessnᷣ</abbr><expan>Winmessern</expan></choice> <choice><abbr>Isingᷣ</abbr><expan>Isinger</expan></choice>
+               <lb n="2"/>· Von den Badern und Scherern - Conrat zuͦm úberhang
+               <lb n="3"/>· Von den Seilern und gremppern - Johanns molsheim
+               <lb n="4"/>· Von den Wagenern, Treschlern und kistenern Johannes haseman
+               <lb n="5"/>· Von den Saltzmúttern - henselin antvogel
+            </p>
+            <pb n="66"/>
+            <cb n="1"/>
+            <p>
+               <lb n="1"/>Anno <choice><abbr>dm̃</abbr><expan>domini</expan></choice> M° ccc° xxxv°,
+               <lb/>
+               <lb/>die zwene <choice><abbr>Meisteᷣ</abbr><expan>Meistere</expan></choice>
+               <lb n="2"/>Her Behtolt Swarber
+               <lb n="3"/>her Ruͦdolff Judenbreter
+               <lb/>der <choice><abbr>ãmeister</abbr><expan>ammeister</expan></choice>
+               <lb n="4"/>her Burckart Twinger
+               <lb n="5"/><choice><abbr>herᷣ</abbr><expan>herr</expan></choice> Ruͦdolff Stúbenweg
+               <lb n="6"/><choice><abbr>herᷣ</abbr><expan>herr</expan></choice> Claus Otte friderich
+               <lb n="7"/><choice><abbr>herᷣ</abbr><expan>herr</expan></choice> Peter von duntzenheim
+               <lb n="8"/><choice><abbr>herᷣ</abbr><expan>herr</expan></choice> Reymbolt hiltebrant von Mùlnheim
+               <lb n="9"/><choice><abbr>herᷣ</abbr><expan>herr</expan></choice> Claus Zorn den man sprichet von buͦlach
+               <lb n="10"/><choice><abbr>herᷣ</abbr><expan>herr</expan></choice> Johannes von Mùlnheim, <choice><abbr>hrnᷣ</abbr><expan>herren</expan></choice> heinrichs sún,
+               <lb n="11"/>Erhart von Kageneck
+               <lb n="12"/>Hùgelin <choice><abbr>herᷣ</abbr><expan>herr</expan></choice> Abrehtz suͦn
+               <lb n="13"/>Johans Clobeloch der alte
+               <lb n="14"/>Peter Voltsche
+               <lb n="15"/>Claus Rebestock
+               <lb n="16"/>Paulus Mosung
+               <lb n="17"/>Peter Swarber
+               <lb n="18"/>Claus swan
+               <lb n="19"/>Abreht Judenbreter
+               <lb n="20"/>Johans Buman
+               <lb n="21"/>Henselin Clobeloch Züm <choice><abbr>Wagenᷣ</abbr><expan>Wagener</expan></choice>
+               <lb n="22"/>Bere von heiligenstein
+               <lb n="23"/>Heintze von Sarburg
+               <lb n="24"/>Henselin Gùrteler
+               <lb n="25"/>Symont Bùhsener
+               <lb n="26"/>Claus Neplin
+               <lb/>
+               <lb n="27"/>· Von den Cremern Claus mosung
+               <lb n="28"/>· Von den Brotbeckern Claus zú der alten Múnße
+               <lb n="29"/>· Von den metzigern Johans Betscholt
+               <lb n="30"/>· Von den Wolleslahern Wolffhelm von Craffstetten
+               <lb n="31"/>· Von den Kúffern Criegesheim
+               <lb n="32"/>· Von den Gerwern <choice><abbr>Cleinhᷣre</abbr><expan>Cleinherre</expan></choice>
+               <lb n="33"/>· Von den Winlúten Reuting
+               <lb n="34"/>· Von den Steinmetzen Erwine
+               <lb n="35"/>· Von den Snydern Claus, meister huges suͦn
+               <lb n="36"/>· Von den Smyden meister <choice><abbr>Joh̃s</abbr><expan>Johanns</expan></choice> sporer
+               <lb n="37"/>· Von den Schifflúten Ruͦdolff lumbart
+               <lb n="38"/>· Von den Kursenern Claus Muͦnich
+               <lb n="39"/>· Von den Zymberlúten hartman
+               <lb n="40"/>· Von den Winrúffern und <choice><sic>winmessẽrn</sic><corr>winmessern</corr></choice> Clauser
+               <lb n="41"/>· Von den <choice><abbr>schuͦchsútẽrn</abbr><expan>schuͦchsúttern</expan></choice> <choice><abbr>detwil̃r</abbr><expan>detwiller</expan></choice>
+               <lb n="42"/>· Von den <choice><sic>Schiltẽrn</sic><corr>Schiltern</corr></choice> Ulrich Baldes
+               <cb n="2"/>
+               <lb n="1"/>· Von den Kornkouffern Goͤtze lembelin
+               <lb n="2"/>· Von den <choice><sic>Gartenẽrn</sic><corr>Gartenern</corr></choice> Claus schencke
+               <lb n="3"/>· Von den Vischern Johans Wúrselin
+               <lb n="4"/>· Von den Badern und scherern Bertschin der Bader
+               <lb n="5"/>· Von den <choice><sic>saltzmúttẽrn</sic><corr>saltzmúttern</corr></choice> Jecklin saltzmutter
+               <lb n="6"/>· Von den Woͤbern heintzman pfefferlin
+               <lb n="7"/>· Von den Vasziehern Wernher Vaßzieher
+               <lb n="8"/>· Von den schiffzym̃berlúten Berhtolt
+               <lb n="9"/>· Und von den Seylern Claus zuͦm <choice><sic>Salmẽn</sic><corr>Salmen</corr></choice>
+               <lb/>
+               <lb n="10"/>Diser Rat ist geschriben uß eim briefe des datum
+               <lb n="11"/>stet an der Ersten Mitwoch vor sant Margreden
+               <lb n="12"/>tag doman zalte von gotts geburt dritzehen 
+               <lb n="13"/>hundert Jore und xxxvj Jore
+            </p>
+            <pb n="67"/>
+            <cb n="1"/>
+            <p>
+               <lb n="1"/>Anno <choice><abbr>dm̃</abbr><expan>domini</expan></choice> M° ccc° xxxvj°
+               <lb/>
+               <lb/>die zwene <choice><abbr>meisteᷣ</abbr><expan>meistere</expan></choice>
+               <lb n="2"/>Her Berhtolt Swarber Ritter
+               <lb n="3"/>Ruͦdolff Judenbreter
+               <lb/>
+               <lb n="4"/>Burckart <choice><abbr>twingᷣ</abbr><expan>twinger</expan></choice> - der Ammeister,
+               <lb/>
+               <lb n="5"/>her Claus zorn der lappe
+               <lb n="6"/>her Walther von múlnheim Inn kalbeßgasse,
+               <lb n="7"/>her Johanns Junge,
+               <lb n="8"/>her Gosse von Múlnheim
+               <lb n="9"/>Reimbolt tanris
+               <lb n="10"/>Reimbolt von kageneck,
+               <lb n="11"/>Uͦlrich loͤselin
+               <lb n="12"/>Wetzel marsilius
+               <lb n="13"/>hanseler von Schoͤneck
+               <lb n="14"/>Wernher kuse
+               <lb n="15"/>Claus swarber,
+               <lb n="16"/>hug von wintertur zuͦm Engel
+               <lb n="17"/>Gosse sturm
+               <lb n="18"/>hug Judenbreter,
+               <lb n="19"/>Jecklin mansse
+               <lb n="20"/>hensel zuͦm Trúbel
+               <lb n="21"/>Cuͦntz von wintertur Inn kalbeßgasse,
+               <lb n="22"/>Betschlin von Rosheim
+               <lb n="23"/>Thoman von heiligenstein
+               <lb n="24"/>langhenselin Kloͤbelouch
+               <lb n="25"/>Bertholt zuͦm Riet
+               <lb n="26"/>Laulin mosung
+               <lb/>
+               <lb n="27"/>Von den Cremern Reimbolt trutman
+               <lb n="28"/>Von den Brotbeckern meister Erlewin Im giessen,
+               <lb n="29"/>Von den metzigern - Johanns <choice><abbr>owenᷣ</abbr><expan>owener</expan></choice>
+               <lb n="30"/>Von den wolleslahern - henselin Kouffman
+               <lb n="31"/>Von den Kuͤffern - meister Gerlin
+               <lb n="32"/>Von den gerwern - dietrich Sicke
+               <lb n="33"/>Von den winlúten - dietsch
+               <lb n="34"/>Von den Steinmetzen - goͤtze Sponheim
+               <lb n="35"/>Von den Snydern - henselin Riffe
+               <lb n="36"/>Von den Schmyden - Johanns an steinstrasse,
+               <lb n="37"/>Von den Schifflúten - heintz <choice><abbr>meigᷣ</abbr><expan>meiger</expan></choice>
+               <lb n="38"/>Von den Kursenern - Johanns <choice><abbr>schuͦlᷣ</abbr><expan>schuͦler</expan></choice>
+               <lb n="39"/>Von den zimerluten - heintz bernwart
+               <lb n="40"/>Von den <choice><abbr>winruͤffnᷣ</abbr><expan>winruͤffern</expan></choice> und <choice><abbr>winmessnᷣ</abbr><expan>winmessern</expan></choice> - ysingᷣ
+               <lb n="41"/>Von den Schuͦchsutern - Johannes <choice><abbr>Stouffᷣ</abbr><expan>Stouffer</expan></choice>
+               <lb n="42"/>Von den Schiltern - dietsch <choice><abbr>sattelᷣ</abbr><expan>satteler</expan></choice>
+               <lb n="43"/>Von den <choice><abbr>kornkouͤffnᷣ</abbr><expan>kornkouͤffern</expan></choice> - mathis erwisser
+               <lb n="44"/>Von den gartenern - Johanns lehenman
+               <cb n="2"/>
+               <lb n="1"/>Von den <choice><abbr>vischnᷣ</abbr><expan>vischern</expan></choice> Abreht Selleman
+               <lb n="2"/>Von den Badern und Scherern - Jeckelin <choice><abbr>Scherᷣ</abbr><expan>Scherer</expan></choice>
+               <lb n="3"/>Von den <choice><abbr>Saltzmuͦttnᷣ</abbr><expan>Saltzmuͦttern</expan></choice> - Gosselin <choice><abbr>saltzmúttᷣ</abbr><expan>saltzmútter</expan></choice>
+               <lb n="4"/>Von den Woͤbern - meister lutze
+               <lb n="5"/>Von den <choice><abbr>Winstichnᷣ</abbr><expan>Winstichern</expan></choice> und <choice><abbr>underkouͤffnᷣ</abbr><expan>underkouͤffern</expan></choice> - heinrich achenheim
+               <lb n="6"/>Von den Wagenern und Kistenern - claus gartener
+               <lb n="7"/>Von den Seilern und gremppern - Johanns molsheim
+            </p>
+            <pb n="68"/>
+            <cb n="1"/>
+            <p>
+               <lb n="1"/>Anno <choice><abbr>dm̃</abbr><expan>domini</expan></choice> M° ccc° xxxvij°,
+               <lb/>
+               <lb/>die zwene <choice><abbr>meisteᷣ</abbr><expan>meistere</expan></choice>
+               <lb n="2"/>Her Berhtolt Swarber Ritter
+               <lb n="3"/>Ruͦdolff Judenbreter
+               <lb/>
+               <lb n="4"/>Burckart Twinger - der Ammeister
+               <lb/>
+               <lb n="5"/>her Johanns zorn
+               <lb n="6"/>her Bilgerin
+               <lb n="7"/>her Claus von grostein
+               <lb n="8"/>her gros Johanns marx
+               <lb n="9"/>her walther von múlnheim <choice><abbr>hnᷣ</abbr><expan>hern</expan></choice> gossen seligen suͦn
+               <lb n="10"/><choice><abbr>herᷣ</abbr><expan>herr</expan></choice> Burckart von Múlnheim
+               <lb n="11"/><choice><abbr>hrᷣ</abbr><expan>her</expan></choice> heintz Swarber
+               <lb n="12"/>Claus von Rùmelnheim
+               <lb n="13"/>Johanns Kloͤblouch der alte,
+               <lb n="14"/>Peter voͤltsche
+               <lb n="15"/>Reimbolt zuͦm Trúbel
+               <lb n="16"/>Peter Rebstock,
+               <lb n="17"/>wilhelm tantz
+               <lb n="18"/>Johanns von heiligenstein
+               <lb n="19"/>Cuͦntz pfaffenlapp
+               <lb n="20"/>heintzlin von Sarburg
+               <lb n="21"/>hug nepelin
+               <lb n="22"/>henselin <choice><abbr>guͦrtelᷣ</abbr><expan>guͦrteler</expan></choice>
+               <lb n="23"/>Jecklin bobst von Erscheim
+               <lb n="24"/>Ott von heiligenstein
+               <lb n="25"/>lentzlin
+               <lb n="26"/>hentzelin zuͦr hellen
+               <lb/>
+               <lb n="27"/>Von den Cremern Cuͤntzlin mathis
+               <lb n="28"/>Von den brotbeckern meister Ruͤllin
+               <lb n="29"/>Von den metzigern wilhelm der <choice><abbr>metzigᷣ</abbr><expan>metziger</expan></choice>
+               <lb n="30"/>Von den <choice><abbr>wolleslahnᷣ</abbr><expan>wolleslahern</expan></choice> frantz <choice><abbr>moterᷣ</abbr><expan>moterer</expan></choice>
+               <lb n="31"/>Von den <choice><abbr>Kuffnᷣ</abbr><expan>Kuffern</expan></choice> heinrich kempffe,
+               <lb n="32"/>Von den Gerwern hanns <choice><abbr>cleinhrᷣe</abbr><expan>cleinherre</expan></choice> der Jung
+               <lb n="33"/>Von den winluten Claus zuͦm gewelbe,
+               <lb n="34"/>Von den Steinmetzen Erwin
+               <lb n="35"/>Von den Schnydern - Claus snyder
+               <lb n="36"/>Von den Schmiden - Johanns wickerßheim
+               <lb n="37"/>Von den Schiffluten - heintz gir
+               <lb n="38"/>Von den kúrsenern - Johanns Richwin
+               <lb n="39"/>Von den zimerlúten - Syfrit von wypruͦch
+               <lb n="40"/>Von den <choice><abbr>winruͤffnᷣ</abbr><expan>winruͤffern</expan></choice> und <choice><abbr>winmessnᷣ</abbr><expan>winmessern</expan></choice> Claus steinhoff,
+               <lb n="41"/>Von den <choice><abbr>Schuͦchsútnᷣ</abbr><expan>Schuͦchsútern</expan></choice> - Claus arnolt
+               <lb n="42"/>Von den Schiltern - Eberlin
+               <lb n="43"/>Von den <choice><abbr>kornkouͤffnᷣ</abbr><expan>kornkouͤffern</expan></choice> - claus <choice><abbr>múllᷣ</abbr><expan>múller</expan></choice>
+               <cb n="2"/>
+               <lb n="1"/>Von den gartenern - Jecklin <choice><abbr>karrichᷣ</abbr><expan>karricher</expan></choice>
+               <lb n="2"/>Von den vischern - Abreht múlbuch
+               <lb n="3"/>Von den Badern und Scherern wigant
+               <lb n="4"/>zuͦ sant thoman
+               <lb n="5"/>Von den Saltzmͦͦúttern - hensel antvogel
+               <lb n="6"/>Von den woͤbern Symont fúgler
+               <lb n="7"/>Von den vasseziehern - heintzman schmit
+               <lb n="8"/>Von den Schiffzimerlúten Ebelin
+               <lb n="9"/>Ebelins sun von Munoltzheim
+               <lb n="10"/>Von den Seilern und gremppern <choice><abbr>Walthᷣ</abbr><expan>Walther</expan></choice> troͤsch
+               <lb/>
+               <lb n="11"/>Prescriptum <choice><abbr>consiliũ</abbr><expan>consilium</expan></choice> Juravit die
+               <lb n="12"/><choice><abbr>donũta</abbr><expan>donunta</expan></choice> <choice><abbr>añ</abbr><expan>ante</expan></choice> sixti <choice><abbr>q̃</abbr><expan>que</expan></choice> erat iii^c nonas
+               <lb n="13"/>Augusti, Anno <choice><abbr>dm̃</abbr><expan>domini</expan></choice> M ccc^c xxxvij^c
+            </p>
+            <pb n="69"/>
+            <cb n="1"/>
+            <p>
+               <lb n="1"/>Anno <choice><abbr>dm̃</abbr><expan>domini</expan></choice> M° ccc° xxxviji
+               <lb/>
+               <lb/>die zwene <choice><abbr>meisteᷣ</abbr><expan>meistere</expan></choice>
+               <lb n=""/>Her Behtolt <choice><abbr>Swarbᷣ</abbr><expan>Swarber</expan></choice>
+               <lb n=""/>Ruͦdolff Judenbreter
+               <lb/>
+               <lb n=""/>Burckart <choice><abbr>twingᷣ</abbr><expan>twinger</expan></choice> - der <choice><abbr>Ammeistᷣ</abbr><expan>Ammeister</expan></choice>
+               <lb/>
+               <lb n=""/>her Reimbolt von Achenheim
+               <lb n=""/>her Ruͤllin Ruͦlenderlin
+               <lb n=""/>her Claus zorn der lappe
+               <lb n=""/>her Reimbolt Hiltebrant von múlnheim
+               <lb n=""/>her peter loͤselin
+               <lb n=""/>her hug Rypelin
+               <lb n=""/>Reimbolt danris
+               <lb n=""/>Burckart Erbe
+               <lb n=""/>hanseler von Schoͤnecke
+               <lb n=""/>Paulus mosung
+               <lb n=""/>Claus kloͤblouch zu Rineck,
+               <lb n=""/>Johanns von Rosheim
+               <lb n=""/>Claus zuͦr Schiren,
+               <lb n=""/>knehtlin Swarber,
+               <lb n=""/>Claus von wintertur
+               <lb n=""/>Albreht Judenbreter,
+               <lb n=""/>Cuͦntz von wintertur zuͦm Engel
+               <lb n=""/>Otte kuse
+               <lb n=""/>Berhtolt mansse
+               <lb n=""/>Buman
+               <lb n=""/>Johanns Cristion
+               <lb n=""/>Bertschin vischer,
+               <lb/>
+               <lb n=""/>Von den Cremern - Ruͤllin
+               <lb n=""/>Von den Brotbeckern - Jecklin <choice><abbr>friburgᷣ</abbr><expan>friburger</expan></choice>
+               <lb n=""/>Von den metzigern - Johanns betscholt
+               <lb n=""/>Von den <choice><abbr>wolleslahnᷣ</abbr><expan>wolleslahern</expan></choice> - Johanns boͤschlin von
+               <lb n="" rend="hyphen"/>Benefelt Von den kuͤffern - Criegesheim
+               <lb n=""/>Von den gerwern - Johanns billung
+               <lb n=""/>Von den winlúten - Johanns kigeler
+               <lb n=""/>Von den Steinmetzen - Peter Sponheim
+               <lb n=""/>Von den Snydern - heintz Riffe
+               <lb n=""/>Von den Schmiden - claus von <choice><abbr>lingolvish̃</abbr><expan>lingolvisheim</expan></choice>
+               <lb n=""/>Von den schifflúten - lumbart
+               <lb n=""/>Von den kúrsenern - Claus <choice><abbr>fuͤterᷣ</abbr><expan>fuͤterer</expan></choice>
+               <lb n=""/>Von den <choice><abbr>zimᷣlúten</abbr><expan>zimerlúten</expan></choice> - hartman
+               <lb n=""/>Von den <choice><abbr>winruͤffnᷣ</abbr><expan>winruͤffern</expan></choice> und <choice><abbr>winmessnᷣ</abbr></choice> Clauser
+               <lb n=""/>Von den <choice><abbr>Schuͦstnᷣ</abbr><expan>Schuͦstern</expan></choice> - detwilr
+               <lb n=""/>Von den <choice><abbr>Schiltnᷣ</abbr><expan>Schiltern</expan></choice> - Uͦlrich baldes
+               <lb n=""/>Von den <choice><abbr>kornkouͤffnᷣ</abbr><expan>kornkouͤffern</expan></choice> - fritschman von
+               <lb n=""/><choice><abbr>wynngersh̃</abbr><expan>wynngersheim</expan></choice>
+               <lb n=""/>Von den gartenern - Jacob Innenheim
+               <lb n=""/>Von den vischern - wúrselin
+               <cb n="2"/>
+               <lb n=""/>Von den <choice><abbr>Badnᷣ</abbr><expan>Badern</expan></choice> und Scherern - Conrat zuͦm úberhang
+               <lb n=""/>Von den Saltzmúttern - Jecklin <choice><abbr>Saltzmúttᷣ</abbr><expan>Saltzmùtter</expan></choice>
+               <lb n=""/>Von den woͤbern heintz - fleischture
+               <lb n=""/>Von den <choice><abbr>winstichnᷣ</abbr><expan>winstichern</expan></choice> und <choice><abbr>underkouͤffnᷣ</abbr><expan>underkouͤffern</expan></choice> - Johanns Núnofen
+               <lb n=""/>Von den wagenern und kistenern - Nithart
+               <lb n=""/>Von den seilern und <choice><abbr>gremppnᷣ</abbr><expan>gremppern</expan></choice> - Claus zuͦm Salmen
+               <lb/>
+
+               <lb n=""/><choice><abbr>Prescriptũ</abbr><expan>Prescriptum</expan></choice> <choice><abbr>consiliũ</abbr><expan>consilium</expan></choice> Juravit die <choice><abbr>donũta</abbr><expan>donunta</expan></choice> <choice><abbr>añ</abbr><expan>ante</expan></choice> sixti
+               <lb n=""/>que erat iiij° <choice><abbr>nonͣ</abbr><expan>nonas</expan></choice> Augusti Anno <choice><abbr>dm̃</abbr><expan>domini</expan></choice> M° ccc
+               <lb n=""/>xxxviij°
+            </p>
+            <pb n="70"/>
+            <cb n="1"/>
 
-die vier meistere
 
-Gosselin Schoup
-her Johanns Panphelin
-her Johanns Viniantz
-her Burckart Schoup
 
-Rittere
 
-her Andres Murnhart
-her Rülin Rippelin
-her Cuͦne von Kageneck
-her Reimbolt Huͦffelin
-her Reimbolt Brandeck
-her Conrat Hoyer
-her Wetzel Broger
-her Walther von Mulnheim
-her Ruͦdolff Ripelin
-her Wernher Hentwing
-her Johanns von Schaffoltzheim
-her Johanns Klosener
-her Johanns Löselin
-her Ludwig von Dambach
-
-Ruͦdolff Zoller
-Hug von Schöneck
-Rüllin Lentzlin
-Burckart Hesse
-Johanns Lentzlin
-Peter von Hunesfelt
-
-Geschriben uß einem briefe des datum
-stet sabbo ante letare, Anno XIII^C
-und VI Jare
-
-Anno domini 1306
-
-die vier meistere
-
-Burckart Reimboͤldelin
-her Conrat Rypelin
-her Johanns Stubenweg
-her Syfrit von vegerßheim
-
-Rittere
-
-her Symont Hetzel
-her Heinrich von Wolffgangesheim
-her Johanns Schilt
-her Peter von Schoͤneck
-her Gotze von grostein
-her Albreht Ruͦlenderlin
-her Reimbolt der liebenzeller
-her Niclaus von Rymuntheim
-her Hetzel Marx
-her Johanns der Junge
-her Niclaus ottfridrich
-her Niclaus von Kageneck
-her Wilhelm Nope
-her Burckart der pfiler
-her Burckart panphelin
-her Hug Rihter
-
-Eberhart Sicke
-Johanns von Wintertur zuͦm Rugel
-Johanns Lentzel
-Conrat Broger
-
-Geschriben uß eim briefe des datum
-stat an fritag nach sant Michels messe
-Anno domini M CCC VI
-
-Item dißer Rhat steht gleichförmig In eim kauff-
-brieff uber das hauß Zur Gans am Krämergasß
-steht das datum uff Katherinen abend An-
-no XIII^C VI.
---
-Anno domini 1307
-
-die vier meistere
-
-Johanns Hetzel
-her Hug Soup
-Claus Kolin
-her Niclaus Waldener
-
-Rittere
-
-her Reimbold Reimböldelin
-her Johanns von Wolffgangesheim
-her Johanns Hunesfelt
-her Niclaus Tutschman
-her Reimbolt Brandeck
-her Peter Stubenweg
-her Hug Zorn
-her Burckart Schultheis
-her Ludwig von Bluͦmenowe
-her Hug Wirich
-her Johanns von Schaffoltzheim
-her Jacob von Barre
-
-Peter Swarber
-Rüllin lentzlin
-Conrat Rihter
-Claus [Soldan]
-Berhtolt Krantz
-Henner von Duntzenheim
-Peter Ripelin
-
-Geschriben uß eim briefe des datum
-stet an Samstag vor dem schönen
-mentage Anno XIII^C und VIII Jare
-
-Anno domini 1308
-
-die drye meistere
-
-Cuͦn von Kageneck
-Hug von Schoͤneck
-her Reimbolt Huffelin
-
-Rittere
-
-her Gunther von landesperg
-her Voltz von hochvelden
-her Reymbolt der lieben zeller
-her Ruͤdolff Ripelin
-her Niclaus von Rymontheim
-her Burckart Panphelin
-her Johanns von Mulnheim
-her Syfrit von Vegersheim
-her Erbe under den kouffluten
-her Burckart waldeck
-her Reymbolt Suͤsse
-her Johanns Schott
-her Hug Rihter
-her Stehelin howemesser
-her Johanns Helffenstein
-her Hug Wenser
-
-Johanns Lentzelin
-Hug von Bluͦmenowe
-Claus Schoup
-Burckart von Duntzenheim
-
-Diser Rat ist geschriben uß eym briefe des
-datum stot uff Mentag vor dem palme
-tag. Anno etc. XIII^C und VIIII
---
-Anno domini 1309
-
-die vier meister
-
-Ruͦdolff Zoller
-her Peter Stubenweg
-her wetzel Broger
-her Johanns von wolffgangesheim
-
-Rittere
-
-her Hetzel Marx
-her Goͤsselin von Kageneck
-her Hug Schoup
-her Johanns panphelin
-her Niclaus Dutscheman
-her Johanns Finiantz
-her Johanns von Schaffoltzheim
-her Höyer
-her Turant
-her Ludwig von Bluͤmenowe
-her Hug Wyrich
-her Reimbolt Nicol
-her ludwig von Dambach
-
-Rulin Lentzelin
-Claus Koͤlin
-Cuͦne under den kouffluten
-Lentzelin
-Burckart zuͦm Riet
-Johanns von Wintertur der Junge
-Peter Koͤrnelin
-
-Diser Rat ist geschriben uß eym briefe
-des datum stet uff frytag nach sant adolffs
-tag Anno domini XIII^C und Nun jor
-
-Anno domini 1310
-
-die vier meistere
-
-her Niclaus von Rymontheim
-her Wetzel marsilies
-Johannes von Wintertur
-her Niclaus friderich
-
-Rittere
-
-her Symont hetzel
-her Johanns Schilt
-her Voltz von hochvelden
-her Reimbolt der liebenzeller
-her Albreht Ruͦlenderlin
-her Niclaus von Kageneck
-her goͤsselin Schoup
-her Burckart panfelin
-her Johanns Stubenweg
-her Reimbolt Suͤsse
-her Erbe von Achenheim
-her Wernher Hentwing
-her hug Rihter
-her Jacob des sun von Barre
-der Maler
-
-Conrat Broger
-Lentzlin Gruͤnwalt
-Johanns hern Hug Stubenwegs sun
-Burckart von Schoͤneck
-Eberlin Sick
-
-Geschriben uß eim briefe des
-datum stat uff zinstag nach
-quasimodo, ANno etc. XIII^C XI
---
-Anno domini 1311
-
-die vier meistere
-
-her Johanns Panfelin
-her Johanns Hunesvelt
-her Burckart Schoupt
-her Johanns der Junge
-
-Rittere
-
-her Reimbolt Reimboldelin
-her Niclaus Waldener
-her Hetzel Marckus
-her Johanns von Blumenowe
-her Heinrich Wetzel
-her Johanns von wolffgangesheim
-her Wilhelm Nope
-her Johanns von Mulnheim
-her Peter Stubenweck
-her Reimbolt Brandeck
-her Reimbolt Turant
-her Wetzel Broger
-her Johanns Helffenstein
-
-Rulin Lentzelin
-Niclaus Coͤlin
-Cuntzlin Richter
-Hug von Schoͤnecke
-Niclaus Zorn
-Johanns von Wintertur der Junge
-Johanns Sickelin der Alt
-
-Geschriben uß eim briefe des datum stët
-am fritag noch sant Martins tag Anno
-domini XIII^C und elff Jore
-
-Anno domini 1312
-
-die vier meistere
-
-her Hug Zorn
-her Syfrit von vegersheim
-her Burckart Schultheiss
-her Albreht Ruͦlenderlin
-
-Rittere
-
-her voltz von hochvelden
-her Reimbolt liebenzeller
-her Johanns stubenweg
-her Burckart Panfelin
-her Hug Schoup
-her Hug Rihter
-her Johanns Schotte
-her Walther von Mulnheim
-her Reimbolt Suͤsse
-her Conrat Hoyer
-her Niclaus maler
-her Johanns Ripelin
-her Reimbolt hern Burckart Reimboldelins sun
-
-Heinrich von Mulnheim
-Claus Tauler
-Burckart von Schoͤneck
-Claus Soldan
-Johanns Stubenweg
-Goͤtze von Grostein
-
-Geschriben uß eim briefe des datum
-stat an fritag nach dem ostertag Anno
-etc. XIII^C und XIII Jare.
---
-Anno domini 1313
-
-die vier meistere
-
-Reimbolt brandeck
-hug von Schöneck
-Johanns von Mulnheim
-Claus dutschman
-
-Rittere
-
-Claus von Kageneck
-Johanns der Junge
-Wilhelm Nope
-Johanns Vinantz
-Johanns von Wolffgangesheim
-Reimbolt Zorn
-Walther Spender
-Jacob von Barre
-Claus Schultheis
-der Jung Waldener
-Johanns Wirich
-
-Conrat Rihter
-Burckart von Mulnheim
-Burckart von Duntzenheim
-Claus Schoup
-Berhtolt zum Riet
-Clein Kloͤbelouch
-Wilhelm von Tegerfelt
-Goͤsselin Engelbreht
-Johanns Sicke
-
-Geschriben Inn eim brieve des datum
-stet uff fritag nach Sant Michels tag
-XIII^C und XIII
-
-Anno domini 1314
-
-die viere meistere
-
-her Reimbolt Brandeck
-Hug von Schöneck
-her Johanns von Mulnheim
-her Claus tutschman
-
-Rittere
-
-her Niclaus von Kageneck
-her Johanns der Jung
-her Wilhelm Nope
-her Johanns Viniantz
-her Johanns von Wolffgangesheim
-her Reimbolt Zorn
-her Walther Spender
-her Jacob von Barre
-her Claus Schultheis
-her Johanns der Jung Waldener
-her Johanns Wirich
-
-Conrat Rihter
-Burckart von Mulnheim
-Burckart von Duntzenheim
-Claus Schoup
-Berhtolt zum Riet
-Clein cloͤbelouch
-Wilhelm von Tegervelt
-Goͤsselin Engelbreht
-Johanns Sicke
-
-Geschriben uß eim brieve des datum
-stet uff fritag vor Sant Joͤrgen tag
-XIII^C und XIIII
---
-Anno domini 1415
-
-die vier meistere
-
-her Johanns Rypelin
-her Johanns von Wolfgangesheim
-her Johanns Sickelin der eilter
-her Conrat Hoͤyer
-
-Rittere
-
-Clauß ott friderich
-her Johanns Stubenweg
-her Johanns Panfelin
-her Hug Schoup
-her Johanns Hunesfelt
-her Reimbolt brandeck
-her Burckart Schultheis
-her Walther Spender
-her Jacob von Barre
-her Johanns Closener
-her Johanns von Schaffoltzheim
-her Johanns der Jung Waldener
-her Reimbolt Suͤsse der Junger
-her Fritschman von Duntzenheim
-her Ruͤllin Ruͦlenderlin
-
-Claus colin
-Heintzman abt
-Burckart von Mulnheim
-Johanns knehtelin
-Diether Rihter
-
-Geschriben Inn eim brieve des datum
-stet an menntag noch unser frowen
-tag der Junger XIII^C XV
-
-Anno domini 1416
-
-die vier Meistere
-
-her Rudolff Zoller
-her Peter Stubenweg
-her Wetzel broger
-her Johanns von Wolffgangesheim
-
-Ritter
-
-her Hetzel Marx
-her Goͤssel von Kageneck
-her Hug Schoup
-her Johanns Panphelin
-her Claus Dütscheman
-her Johans Viniantz
-her Höyer
-her Johans von Schaffoltzheim
-her Turant
-her Ludwig von Bluͦmenowe
-her Hug Wirich
-her Reimbolt Nicol
-her Ludwig von Tambach
-
-Rulin Lentzelin
-Claus Coͤlin
-Cune under den kouffluten
-Lentzelin
-Burckart züm Ryet
-Johanns von wintertur der Junge
-Peter Kornelin
---
-Anno domini 1317
-
-die vier Meistere
-
-her Wetzel broger
-her Johanns Stubenweg
-her Reimbolt hern Burckartz seligen sun
-her Hug Schoup
-
-Rittere
-
-her Claus von Rymotheim
-her Goͤsselin von Kageneck
-her Claus Dutscheman
-her Hug Richer
-her Burckart Schultheis
-her Conrat Ripelin
-her Johans Zorn
-her Johanns von Eckeversheim
-her Ruͤlin Ruͦlenderlin
-her Johanns Waldener
-her Reimbolt Suͤsse der Junge
-her Jacob von Barre
-her Goͤsselin Engelbrecht
-her Fritscheman von Duntzenheim
-her Reimbolt von Lingelsheim
-her Johans von Dunnenheim
-
-Claus Coͤlin
-Burckart [...] Meiger
-Peterman von Schoͤneck
-der Rat
-
-Diser Rat ist geschriben uß eim briefe des
-datum stet uff zinstag vor sant Gallen
-tag Anno domini M CCC XVII
-
-Anno domini 1318
---
-Anno domini 1319
-
-her Gotze von Grostein
-her Reimbolt Suͤsse der Jung
-her Walther Spender
-her Ruͤllin Ruͦlenderlin
-
-Rittere
-
-her Reimbolt Stubenweg der alt
-her Gosselin Schoup
-her Claus von Rymuntheim
-her Hetzel marx
-her Goͤsselin von Kageneck
-her Hug Schoup
-her Reimbolt Huͦffelin
-her Wilhelm Nope
-her Burckart Schultheis
-her Wetzel Broger
-her Reimbolt Reimboͤldelin
-her Johanns Sick der alt
-her Johanns Waldener
-her Fritschmanvon Duntzenheim
-her Gosse engelbreht
-her Reimbolt von Lingolvisheim
-her Claus Zorn des Schultheissen sun
-her Sigelin Bilgerin
-
-Clein Johanns Sick
-Dietrich Rihter
-
-Geschriben Inn eim brieve des datum
-steet uff mentag vor Sant Bartho
-lomeus tag XIII^C und XVIIII
-
-Anno domini 1319
-
-die drye meistere
-
-her Hug von Schoͤneck
-her Reimbolt Suͤsse der eilter
-her Hug Zorn
-
-Rittere
-
-her Syfrit von vegersheim
-her Burckart Schoup
-her Reimbolt Brandeck
-her Johanns Hunesfelt
-her Conrat Hoͤyer
-her Claus schultheis
-her Claus Zorn
-her Johanns Sickelin der Jung
-her Cuͦne Reimboldelin
-her Johanns von Mulneck
-her Ruͤllin Loͤselin
-
-Heinrich von Mulnheim
-Conrat Rihter
-Erbeler von Schiltingheim
-Johanns Grünwalt der alt
-Johanns Swarber
-Erbe von Lampertheim
-Marx Wirich
-Ruͦdolff Stubenweg
-claus von Rymuntheim der Jung
-
-Stet Inn eim briefe des datum wiset
-uff donrstag vor der grossen vastnaht
-XIII^C XVIIII
---
-Anno domini 1320
-
-Anno domini 1321
-
-die vier meistere
-
-her Claus Zorn der Jung
-her Johanns Hunsfelt
-her Johanns von Tuͦnnenheim
-her Johanns Sick der Jung
-
-Rittere
-
-her Hug Rihter
-her Burckart Schoup
-her Hug von Schoͤnecke
-her Reimbolt Brandeck
-her Conrat Hoyer
-her Claus maler
-her Walther von Mulnheim
-her Cuͦne Reimboͤldelin
-her Hetzel marx der Jung
-her Claus ottfridrich
-her Burckart von Nideck
-
-Claus Colin
-Burckart von Mulnheim
-Erbeler von Schiltingheim
-Eberlin Sicke
-Clein cloͤbelouch
-Hanseler von Schoͤneck
-Claus von Rymuntheim
-Uͦlrich Swarber
-
-Stet Inn eim brieve des datum
-wiset uff fritag vor Sant Barnabas
-tag apostoli XIII^C XXI
---
-Anno domini 1321
-
-die vier meistere
-
-her Hetzel broger
-her Lentzelin
-her Gosse Engelbreht
-her Fritschman von Duntzenheim
-
-Rittere
-
-her Goͤsselin von Kageneck
-her Claus dutschman
-her Hug Schoup
-her Reimbolt Huffelin
-her Reimbolt Suͤsse der eilter
-her Reimbolt von Achenheim
-her Reimbolt Reimboldelin
-her Rullin Ruͦlenderlin
-her Johanns Ripelin
-her Johanns Zorn
-her Claus Schultheis
-her Johanns Waldener
-her Claus Zorn des Schultheissen sun
-her Ruͦdolff von vegersheim
-her Ruͦdolff von Nydeck
-her Claus von grostein
-
-Conrat Rihter
-Johanns Swarber
-Marx Wirich
-Jacob Lentzelin
-
-
-hern Hug Zorn primus
-Claus Sick
-hern Johanns Sicken den Jungen
-hern Conrat Hoyer
-
-Johannes von Achenheim
-hern Clausen maler
-hern Hug von Schoͤneck secundus
-hern Burckarten Stubenweg
-hern Claus Zorn
-Berhtolt Swarber
-hern Burckarten Reimboldelin
-hern Micheln Ruͦlenderlin
-hern Hetzel Marx den Jungen
-her Burckarten Schoup quartus
-Johanns Cloͤblouch
-hern Eberlin von Mulnheim
-Erbeler von Schiltingheim
-hern Claus ottfridrich
-hern Reimbolt Brandeck
-Johanns Loͤselin
-
-Dietrich Rihter
-hern Siglin Bilgerin tertius
-Johanns Wirich
-Gruͤwalt den Jungen
-
-[Predictum] consilium Jurauit feria sexta post Bartholomei Apostoli
-Anno domini M CCC vitosimo primo
---
-Anno domini 1322
-
-die vier meistere
-
-her Hug Zorn
-her Hug von Schoͤneck
-her Bilgerin der eilter
-her Burckart Schoup
-
-Rittere
-
-her Reimbolt brandeck
-her Conrat hoyer
-her Claus Zorn
-her Walther von Mulnheim
-her Claus maler
-her Johanns Sick der Jung
-her Hetzel marx der Jung
-her Claus ottfridrich
-her Burckart Stubenweg
-her Burckart Reimboͤldelin
-her Michel Ruͦlenderlin
-
-Erbeler von Schiltingheim
-Dietrich Rihter
-Johanns von Achenheim
-Johanns von Cloͤblouch
-Johanns Loͤselin
-Berhtolt Swarber
-Gruͤnwalt der Jung
-Johanns Wirich
-und Claus Sick
-
-
-kose hern Reimbolt Huffel
-hern Ruͤllin Loselin
-hern Heintzman von Duntzenheim
-hern Johanns Schotten
-Heintzlin Stubenweg
-Erbe von lampertheim
-hern Reimbolt Suͤssen
-hern Johanns Waldener tertius
-Clausen Lentzlin
-Burckarten von Mulnheim
-hern Wolffhelm von hochvelden
-hern Cuͦnen Reimboͤldelin quartus
-hern Wetzeln broger
-hern Reimbolt Reimboͤldelin
-hern Erbelin von Mulnheim
-
-hern goͤsselin Engelbreht
-Kelwelin vor dem Munster
-hern Reimbolten von Achenheim
-hern Burckart Schultheis primus magister
-hern Claus von grostein
-Ruͦlman Swarber
-Jacob Lentzel
-Marx Wirich
-hern Johanssen Sicken den eiltern secundus
-
-Predictum consilium Jurauit feria sexta post Bartholomei Apostoli
-Anno domini M CCC vitosimo secundo
---
-Anno domini 1323
-
-die vier meistere
-
-her Burckart Schultheis
-her Johanns Sicke der eilter
-her Johanns Waldener
-her Cuͦne Reimboldelin
-
-Rittere
-
-her Reimbolt Huffel
-her Wetzel Broger
-her Johanns Schotte
-her Reimbolt von Achenheim
-her Reimbolt Suͤsse
-her fritschman von duntzenheim
-her Gosse Engelbreht
-her Ruͤllin Loͤselin
-her Claus von grostein
-her Woͤlffelin von Hochfelden
-her Eberlin von Mulnheim
-her Reimbolt Reimboldelin
-
-Burckart von Mulnheim
-Erbe von lampertheim
-Ruͣlman Swarber
-Marx Wirich
-Jacob Lentzel
-Hentzlin Stubenweg
-Kelbelin
-Cluas Lentzel
-
-Geschriben uß einem brieve des datum
-stet uff fritag nach Adolphi Anno
-domini M CCC XXIII
-
-Anno domini 1324
-
-die vier Meistere
-
-her Claus Maler
-her Ruͤdolff von vegersheim
-Heinrich von Mulnheim
-her Ruͤdolff von Nideck
-
-Rittere
-
-her Burckart Schoup
-her Walther von Mulnheim
-her Reimbolt Brandecke
-her Conrat Hoͤyer
-her Johanns Zorn
-her Reimbolt Reimboldelin
-her Sygelin bilgerin
-her Claus Otfriderich
-her Hetzel Marx der Junge
-her Michel Rulenderlin
-her Claus Lappe
-
-Claus von Rumelnheim
-Conrat Richter
-Erbe von Schiltingheim
-Hannseler von Schoneck
-Johanns Klobelouch
-Bechtolt Swarber
-Johanns Gruͤnwalt
-Wilhelm Dantz
-Hug von wintertur Zum Engel
-
-Geschriben uß eim briefe des datum stet
-uff Mendag nach unser frowen tag der
-liechtmesse Anno domini XIII^C XXV
---
-Anno domini 1325
-
-die vier Meistere
-
-her Claus Zorn der Eilter
-her Johanns Swarber
-her Burckart von Mulnheim
-her Claus von Grostein
-
-Rittere
-
-her Goͤsselin von Kagenecke
-her Hug Schoup
-her Syfrit von Vegersheim
-her Wetzel proger
-her Claus Schultheis
-her Ruͤlin Rulenderlin
-her Sickelin der Junge
-her Eberlin von Mulnheim
-her Bilgerin der Junge
-her Johanns Marx
-her Cuͦne von Rumoltheim
-her Peter von Duntzenheim
-
-Johanns Loͤselin
-Heinrich Stubenweg
-Jacob Lentzelin
-Johanns Wyrich
-Cuͦntz von wintertur
-Gosse Kurnagel
-Wilhelm Nope
-Hesse Erlin
-
-Geschriben Inn eim brieve des datum
-stet uff nehsten Samstag vor der
-zweyer heiligen tag Tiburcy und
-Valleriani Anno XIII^C XXVI
-
-Anno domini 1326
-
-die vier meistere
-
-her Gosselin Schoup
-her Gosselin Engelbreht
-her Hetzel marx der Junge
-her Claus ott fridrich
-
-Rittere
-
-her Burckart Schoup
-her Reimbolt brandeck
-her Conrat Hoͤyer
-her Hug Zorn
-her Sigelin Bilgerin
-her Johanns Sick der alt
-her Ruͦllin Loͤselin
-her Burckart Reimboͤldelin
-her Burckart Stubenweg
-her Claus Lappe
-her Albreht Ruͦlenderlin
-
-Erbe von Schiltingheim
-Hanseler von Schoͤneck
-Ruͦlman Swarber
-Hug von Wintertur
-Claus Zoller
-Peterman Ripelin
-Hesse von Tanbach
-Siglin Buckeler
-Hug Wiß broͤtelin
---
-Johanns grunwalt
-Jacob Lentzel
-hern Johanns Marxen
-Clausen Swarber
-
-hern Wetzel broger
-hern Ruͦdolff Stubenweg
-hern Reimbolt Reimboͤldelin den alten
-hern Reimbolt Huffelin den alten primus
-hern Johanns hundesfelt
-hern Johanns Sicken den Jungen tertius
-hern Fritschman von duntzenheim
-hern Gossen Schoup
-hern Johanns Jungen
-Peterman von Schoͤneck
-hern Clausen von grostein
-Sigelin von Mulnheim
-hern Johannsen Zorn
-Bilgerin den Jungen secundus
-hern Claus Schultheis
-Otte Kusen
-Cuͦntzen von wintertur
-hern Claus maler
-hern Johanns Waldener
-hern Rullin Ruͣlenderlin quartus
-
-Predictum consilium Jurauit crastino Exaltationis sancte [...]
-Anno domini Millesimo CCC vitesimo sexto
-
-Anno domini 1327
-
-die vier meistere
-
-her Reimbolt huffelin der alt
-her Bilgerin der Jung
-her Sickelin der Jung
-her Rullin Ruͦlenderlin
-
-Rittere
-
-her Johanns Hundßfelt
-her Wetzel broger
-her Claus maler
-her Reimbolt Reimboldelin der alt
-her Johanns Waldener
-her Claus Schultheis
-her Johanns Zorn
-her Fritschman von duntzenheim
-her Ruͣdolff Stubenweg
-her Claus von Grostein
-her Johanns Marx
-her Gosse Schoup
-her Johanns Jung
-
-Peterman von Schoͤneck
-Johanns Gruͤnwalt
-Jacob Lentzel
-Conrat von Wintertur
-Otte Kuse
-Siglin von Mulnheim
-Claus Swarber
-
-Geschriben uß eim brieve, des datum stat
-an fritag vor perpetue et felicitatis Anno
-XIII^C und XXVII
---
-Anno domini 1328
-
-die vier Meistere
-
-her Hanseler von Schoͤnecke
-her Michel Ruͦlenderlin
-her Rulin Loͤselin
-her Burckart Reimboͤldelin
-
-Rittere
-
-her Burckart Schoup
-her Johanns Schott
-her Reymbolt von Achenheim
-her Walther Spender
-her Johanns Sick der alt
-her Hetzel Marx
-her Goß Engelbreht
-her Claus Lappe
-her Walther von Mulnheim der Junge
-her Burckelin von Mulnheim
-
-Erbe von Schiltingheim
-Johanns Clobelouch
-Hug von Blumenowe
-Erbe von Lampertheim
-Hug von Wintertur
-Sigelin Schilt
-Reÿmbolt Suͤsse der alt
-Reÿmbolt Danris
-Peter Swarber
-Hug otte friderich
-
-Diser Rat ist geschriben uß eym briefe des
-datum stet valentini XIII^C XXVIIII
-
-Anno domini 1329
-
-die vier meisterer
-
-her Claus Maler
-her Ruͦdolff Stubenweg
-her Eberlin von Mulnheim
-her Behtolt Swarber
---
-Anno domini 1330
-
-die viere meistere
-
-her Johanns Loͤselin
-her Claus Zorn den man spricht der lappe
-her Johanns Zorn
-her Albreht Ruͦlenderlin
-
-Rittere
-
-her Burckart Schoub
-her Reimbolt Huffelin der alt
-her Ruͦdolff von vegersheim
-her Johanns Sicke der Jung
-her Gosse Engelbreht
-her Burckart Reimboͤldelin
-her Burckart Stuenweg
-her Peterman von duntzenheim
-her Walther von mulnheim
-her Gosse Schoup
-her Clein Johanns marx
-her Gerhart Schoup
-
-Johanns Kloͤbelouch
-Hanseler von Schoͤneck
-Ruͦlman Swarber
-Johanns gruͤnwalt
-Hug von Wintertur
-Reimbolt tanris
-Johanns panfelin
-Johanns Ripelin
-
-
-hern Pilgerin
-hern Claus Ottfridrich
-Reimbolt Suͤssen den alten
-hern Ruͤllin Ruͦlenderlin magister quartus
-
-Peter Swarber
-hern Ruͦdolff Stubenweg
-Ruͦdiger Schilt
-hern Hug Scoup
-Heintzlin von Sarburg
-hern Reimbolt Reimboldelin den alten
-Erbeler von Schiltingheim
-Cuͦntzen von Wintertur
-hern Johanns Waldener
-Herman Wirich
-hern gros hanns marx magister secundus
-her Reimbolt Hiltebrant
-
-her Wetzel proger primus magister
-hern Heinrich von grostein dem man spricht der Roͤmer
-hern Claus Jung zorn
-hern Johanns Sick den Jungen tertius magister
-Hug Wißbroͤtelin
-hern Claus maler
-Otte Kusen
-Johanns Kelbelin
-
-Predictum consilium Jurauit die Jeronimi [...] Anno domini
-M CCC XXX
---
 Anno
 --
 Anno domini 1400
